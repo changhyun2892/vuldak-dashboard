@@ -1,0 +1,739 @@
+{
+  "checked_on": "2026-11-01",
+  "checks": [
+    {
+      "check": "SY 2022 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2022 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2022 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2022 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 재무상태표",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2023 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2023 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2023 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2023 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2023 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2023 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2023 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2023 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2024 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2024 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2024 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2024 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2024 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2024 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2024 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2024 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2024 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2025 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2025 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2025 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2025 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "SY 2025 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "SY 2025 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2025 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2025 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2025 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2023 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2023 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2023 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2023 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2023 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2023 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2023 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2023 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2023 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2024 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2024 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2024 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2024 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2024 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2024 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2024 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2024 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2024 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2025 revenue Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2025 cost_of_sales Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2025 sga Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2025 operating_profit Q3差分",
+      "result": "통과",
+      "detail": "9개월−반기 = 3개월 표기"
+    },
+    {
+      "check": "NS 2025 Q1 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 Q2 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 Q3 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 Q4 손익",
+      "result": "통과",
+      "detail": "원 단위 정확 일치"
+    },
+    {
+      "check": "NS 2025 revenue 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2025 cost_of_sales 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2025 sga 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "NS 2025 operating_profit 분기합",
+      "result": "통과",
+      "detail": "연간과 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 operating_margin_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 cost_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 sga_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 noodle_export_share_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 cash_after_ppe_KRW",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 debt_equity_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 current_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 revenue_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 operating_profit_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 inventory_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 operating_cashflow_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 inventory_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2023 기존 산식 receivables_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 operating_margin_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 cost_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 sga_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 noodle_export_share_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 cash_after_ppe_KRW",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 debt_equity_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 current_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 revenue_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 operating_profit_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 inventory_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 operating_cashflow_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 inventory_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2024 기존 산식 receivables_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 operating_margin_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 cost_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 sga_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 noodle_export_share_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 cash_after_ppe_KRW",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 debt_equity_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 current_ratio_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 revenue_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 operating_profit_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 inventory_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 operating_cashflow_growth_pct",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 inventory_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "SY 2025 기존 산식 receivables_turnover",
+      "result": "통과",
+      "detail": "원값 재계산과 소수점 오차 범위 내 일치"
+    },
+    {
+      "check": "판매경로 면스낵/면",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "판매경로 면스낵/스낵",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "판매경로 소스·조미소재",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "판매경로 해외사업부",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "판매경로 뉴트리션",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "판매경로 냉동",
+      "result": "통과",
+      "detail": "동일 그룹 안에서만 합계 100%"
+    },
+    {
+      "check": "NS 2025 사업합",
+      "result": "통과",
+      "detail": "백만원 반올림에 따른 차이 허용"
+    },
+    {
+      "check": "NS 2024 사업합",
+      "result": "통과",
+      "detail": "백만원 반올림에 따른 차이 허용"
+    },
+    {
+      "check": "NS 2023 사업합",
+      "result": "통과",
+      "detail": "백만원 반올림에 따른 차이 허용"
+    },
+    {
+      "check": "원문 대조 불일치",
+      "result": "통과",
+      "detail": "기존 자료 재무·분기·생산·법인·사업·검색 및 브랜드 본문 대조"
+    }
+  ],
+  "audit_counts": {
+    "원문 대조 일치": 292,
+    "별도 사업보고서 비교열 대조 일치": 42,
+    "공시 원문 신규 추출": 36,
+    "공시 원문 기반 신규 계산": 48,
+    "공시 해당 값 없음": 4,
+    "공시 해당 행 없음": 2,
+    "해당 없음: 설립 전": 1,
+    "보도값 일치; 감사 공시 아님": 3
+  },
+  "source_internal_issues": [
+    {
+      "company_id": "NS",
+      "year": 2024,
+      "scope": "해외 사업소 집계",
+      "entity": "상해농심",
+      "available_hours": "31621",
+      "actual_hours": "14614",
+      "reported_utilization_pct": "45.1",
+      "recalculated_utilization_pct": "46.21612219727396350526548812",
+      "source_id": "ns2024",
+      "source_location": "ns2024:t55:r2",
+      "status": "원문 내부 산식 불일치",
+      "note": "삼양 공장별 가동률과 단순 순위 비교 금지. 원문 표기값 보존; 독자 정정 금지."
+    }
+  ],
+  "not_tested": [
+    "실제 대시보드 화면·코드",
+    "DART 사용자 키를 이용한 실제 통신",
+    "최신 정정공시 전체 이력",
+    "검색 급등 인과관계",
+    "기존 가격 표본 현시점 재조회",
+    "코첼라 실제 현장 운영·성과 (사전 발표만 확인)"
+  ],
+  "recheck_2026_11_03": {
+    "event_rows_reviewed": 17,
+    "notice": "행사 계획과 실제 개최 및 보도와 인과관계는 구분",
+    "source_id_links": 502,
+    "unresolved_source_ids": [],
+    "audit_status_change": "농심 신규 연간 추출 56개와 분기 계산 48개 상태 구분",
+    "latest_correction_check": "공시 목록 검색만 실시; DART 최신 정정 전체 이력 대조는 미완료"
+  },
+  "supplement": {
+    "date": "2026-11-03",
+    "nongshim_region_rows": 22,
+    "nongshim_crosscheck_rows": 42,
+    "regional_sum": "천원 보고 단위 반올림 오차 내 연간 연결 매출과 일치",
+    "revision_history": "전체 정정 여부를 DART에서 완전 조회하지 못함"
+  }
+}

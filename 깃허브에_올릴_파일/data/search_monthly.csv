@@ -1,0 +1,109 @@
+﻿month,region,platform,query,index,source_file,company_id,audit_id
+2023-01-01,Worldwide,Google Trends,buldak,20.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0296
+2023-02-01,Worldwide,Google Trends,buldak,17.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0297
+2023-03-01,Worldwide,Google Trends,buldak,18.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0298
+2023-04-01,Worldwide,Google Trends,buldak,19.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0299
+2023-05-01,Worldwide,Google Trends,buldak,24.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0300
+2023-06-01,Worldwide,Google Trends,buldak,29.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0301
+2023-07-01,Worldwide,Google Trends,buldak,29.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0302
+2023-08-01,Worldwide,Google Trends,buldak,34.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0303
+2023-09-01,Worldwide,Google Trends,buldak,35.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0304
+2023-10-01,Worldwide,Google Trends,buldak,37.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0305
+2023-11-01,Worldwide,Google Trends,buldak,38.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0306
+2023-12-01,Worldwide,Google Trends,buldak,52.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0307
+2024-01-01,Worldwide,Google Trends,buldak,67.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0308
+2024-02-01,Worldwide,Google Trends,buldak,56.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0309
+2024-03-01,Worldwide,Google Trends,buldak,54.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0310
+2024-04-01,Worldwide,Google Trends,buldak,57.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0311
+2024-05-01,Worldwide,Google Trends,buldak,58.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0312
+2024-06-01,Worldwide,Google Trends,buldak,70.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0313
+2024-07-01,Worldwide,Google Trends,buldak,66.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0314
+2024-08-01,Worldwide,Google Trends,buldak,64.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0315
+2024-09-01,Worldwide,Google Trends,buldak,68.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0316
+2024-10-01,Worldwide,Google Trends,buldak,65.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0317
+2024-11-01,Worldwide,Google Trends,buldak,65.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0318
+2024-12-01,Worldwide,Google Trends,buldak,75.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0319
+2025-01-01,Worldwide,Google Trends,buldak,84.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0320
+2025-02-01,Worldwide,Google Trends,buldak,73.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0321
+2025-03-01,Worldwide,Google Trends,buldak,71.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0322
+2025-04-01,Worldwide,Google Trends,buldak,67.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0323
+2025-05-01,Worldwide,Google Trends,buldak,68.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0324
+2025-06-01,Worldwide,Google Trends,buldak,71.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0325
+2025-07-01,Worldwide,Google Trends,buldak,89.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0326
+2025-08-01,Worldwide,Google Trends,buldak,100.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0327
+2025-09-01,Worldwide,Google Trends,buldak,89.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0328
+2025-10-01,Worldwide,Google Trends,buldak,88.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0329
+2025-11-01,Worldwide,Google Trends,buldak,89.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0330
+2025-12-01,Worldwide,Google Trends,buldak,89.0,time_series_Worldwide_20230101-0000_20261027-2109.csv,SY,A0331
+2023-01-01,US,Google Trends,buldak,19.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0332
+2023-02-01,US,Google Trends,buldak,16.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0333
+2023-03-01,US,Google Trends,buldak,16.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0334
+2023-04-01,US,Google Trends,buldak,16.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0335
+2023-05-01,US,Google Trends,buldak,21.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0336
+2023-06-01,US,Google Trends,buldak,24.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0337
+2023-07-01,US,Google Trends,buldak,24.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0338
+2023-08-01,US,Google Trends,buldak,25.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0339
+2023-09-01,US,Google Trends,buldak,28.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0340
+2023-10-01,US,Google Trends,buldak,27.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0341
+2023-11-01,US,Google Trends,buldak,34.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0342
+2023-12-01,US,Google Trends,buldak,52.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0343
+2024-01-01,US,Google Trends,buldak,73.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0344
+2024-02-01,US,Google Trends,buldak,52.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0345
+2024-03-01,US,Google Trends,buldak,50.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0346
+2024-04-01,US,Google Trends,buldak,57.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0347
+2024-05-01,US,Google Trends,buldak,61.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0348
+2024-06-01,US,Google Trends,buldak,70.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0349
+2024-07-01,US,Google Trends,buldak,64.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0350
+2024-08-01,US,Google Trends,buldak,61.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0351
+2024-09-01,US,Google Trends,buldak,70.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0352
+2024-10-01,US,Google Trends,buldak,60.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0353
+2024-11-01,US,Google Trends,buldak,65.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0354
+2024-12-01,US,Google Trends,buldak,72.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0355
+2025-01-01,US,Google Trends,buldak,78.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0356
+2025-02-01,US,Google Trends,buldak,63.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0357
+2025-03-01,US,Google Trends,buldak,62.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0358
+2025-04-01,US,Google Trends,buldak,60.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0359
+2025-05-01,US,Google Trends,buldak,59.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0360
+2025-06-01,US,Google Trends,buldak,66.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0361
+2025-07-01,US,Google Trends,buldak,84.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0362
+2025-08-01,US,Google Trends,buldak,100.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0363
+2025-09-01,US,Google Trends,buldak,72.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0364
+2025-10-01,US,Google Trends,buldak,76.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0365
+2025-11-01,US,Google Trends,buldak,82.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0366
+2025-12-01,US,Google Trends,buldak,82.0,time_series_US_20230101-0900_20261027-2112.csv,SY,A0367
+2023-01-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",58.57286,datalab (1).xlsx,SY,A0368
+2023-02-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",52.13913,datalab (1).xlsx,SY,A0369
+2023-03-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",68.1327,datalab (1).xlsx,SY,A0370
+2023-04-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",71.00852,datalab (1).xlsx,SY,A0371
+2023-05-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",56.48194,datalab (1).xlsx,SY,A0372
+2023-06-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",51.32801,datalab (1).xlsx,SY,A0373
+2023-07-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",50.47008,datalab (1).xlsx,SY,A0374
+2023-08-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",46.78668,datalab (1).xlsx,SY,A0375
+2023-09-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",45.88196,datalab (1).xlsx,SY,A0376
+2023-10-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",44.75176,datalab (1).xlsx,SY,A0377
+2023-11-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",44.58798,datalab (1).xlsx,SY,A0378
+2023-12-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",41.18251,datalab (1).xlsx,SY,A0379
+2024-01-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",53.88193,datalab (1).xlsx,SY,A0380
+2024-02-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",46.5527,datalab (1).xlsx,SY,A0381
+2024-03-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",45.90677,datalab (1).xlsx,SY,A0382
+2024-04-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",48.01684,datalab (1).xlsx,SY,A0383
+2024-05-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",74.3367,datalab (1).xlsx,SY,A0384
+2024-06-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",69.76063,datalab (1).xlsx,SY,A0385
+2024-07-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",55.69279,datalab (1).xlsx,SY,A0386
+2024-08-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",51.78533,datalab (1).xlsx,SY,A0387
+2024-09-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",45.50333,datalab (1).xlsx,SY,A0388
+2024-10-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",47.50563,datalab (1).xlsx,SY,A0389
+2024-11-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",46.18684,datalab (1).xlsx,SY,A0390
+2024-12-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",41.90218,datalab (1).xlsx,SY,A0391
+2025-01-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",50.96357,datalab (1).xlsx,SY,A0392
+2025-02-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",100.0,datalab (1).xlsx,SY,A0393
+2025-03-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",73.24409,datalab (1).xlsx,SY,A0394
+2025-04-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",49.10024,datalab (1).xlsx,SY,A0395
+2025-05-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",56.47981,datalab (1).xlsx,SY,A0396
+2025-06-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",54.3981,datalab (1).xlsx,SY,A0397
+2025-07-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",59.65555,datalab (1).xlsx,SY,A0398
+2025-08-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",65.79645,datalab (1).xlsx,SY,A0399
+2025-09-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",54.16767,datalab (1).xlsx,SY,A0400
+2025-10-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",50.54737,datalab (1).xlsx,SY,A0401
+2025-11-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",51.69741,datalab (1).xlsx,SY,A0402
+2025-12-01,KR,Naver DataLab,"불닭볶음면,까르보불닭",51.90586,datalab (1).xlsx,SY,A0403

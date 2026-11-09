@@ -1,0 +1,3 @@
+﻿observed_on,market,retailer,product,pack_count,display_weight,price_usd,price_per_bag_usd,source,note,company_id
+2026-10-27,미국,Walmart 온라인,불닭 오리지널,5,4.93 oz/봉,7.48,1.496,https://www.walmart.com/ip/234865077,조회시 검색엔진 반환 가격; 배송지·판매자·배송비·세금 미고정; 2023~2025 가격 아님; 중량 표기 충돌로 100g당 비교 보류,SY
+2026-10-27,미국,Walmart 온라인,농심 신라면,4,제목4.02 oz/봉; URL4.2 oz/봉,5.68,1.42,https://www.walmart.com/ip/46330174,조회시 검색엔진 반환 가격; 배송지·판매자·배송비·세금 미고정; 2023~2025 가격 아님; 중량 표기 충돌로 100g당 비교 보류,SY
