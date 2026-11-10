@@ -26,8 +26,8 @@ jobs:
           python-version: "3.12"
 
       # 주가 수집은 나중에 켤 예정 — 아래 두 줄의 # 을 지우면 동작
-      # - name: 주가 수집 (Yahoo 003230.KS + KOSPI)
-      #   run: python scripts/update_stock.py
+        - name: 주가 수집 (Yahoo 003230.KS + KOSPI)
+          run: python scripts/update_stock.py
 
       - name: DART 정기보고서 확인·반영
         env:
