@@ -1,0 +1,429 @@
+﻿audit_id,dataset,row_key,field,dataset_value,source_value,source_id,source_location,method,result,checked_on,latest_revision_check,causality_check
+A0001,financials.csv,SY|2025|revenue,value,2351785163786,2351785163786,sy2025_pdf,연결 IS; 인쇄 p.48; 제65기; 계정 매출액,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0002,financials.csv,SY|2024|revenue,value,1728015003746,1728015003746,sy2025_pdf,연결 IS; 인쇄 p.48; 제64기; 계정 매출액,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0003,financials.csv,SY|2023|revenue,value,1192914607980,1192914607980,sy2025_pdf,연결 IS; 인쇄 p.48; 제63기; 계정 매출액,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0004,financials.csv,SY|2025|cost_of_sales,value,1298756616303,1298756616303,sy2025_pdf,연결 IS; 인쇄 p.48; 제65기; 계정 매출원가,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0005,financials.csv,SY|2024|cost_of_sales,value,1004797694924,1004797694924,sy2025_pdf,연결 IS; 인쇄 p.48; 제64기; 계정 매출원가,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0006,financials.csv,SY|2023|cost_of_sales,value,776182562968,776182562968,sy2025_pdf,연결 IS; 인쇄 p.48; 제63기; 계정 매출원가,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0007,financials.csv,SY|2025|sga,value,528840141423,528840141423,sy2025_pdf,연결 IS; 인쇄 p.48; 제65기; 계정 판매비와관리비,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0008,financials.csv,SY|2024|sga,value,378648158379,378648158379,sy2025_pdf,연결 IS; 인쇄 p.48; 제64기; 계정 판매비와관리비,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0009,financials.csv,SY|2023|sga,value,269217954233,269217954233,sy2025_pdf,연결 IS; 인쇄 p.48; 제63기; 계정 판매비와관리비,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0010,financials.csv,SY|2025|operating_profit,value,524188406060,524188406060,sy2025_pdf,연결 IS; 인쇄 p.48; 제65기; 계정 영업이익,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0011,financials.csv,SY|2024|operating_profit,value,344569150443,344569150443,sy2025_pdf,연결 IS; 인쇄 p.48; 제64기; 계정 영업이익,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0012,financials.csv,SY|2023|operating_profit,value,147514090779,147514090779,sy2025_pdf,연결 IS; 인쇄 p.48; 제63기; 계정 영업이익,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0013,financials.csv,SY|2025|inventory,value,245011080334,245011080334,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 재고자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0014,financials.csv,SY|2024|inventory,value,148020437103,148020437103,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 재고자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0015,financials.csv,SY|2023|inventory,value,142175085782,142175085782,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 재고자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0016,financials.csv,SY|2025|receivables,value,185202492674,185202492674,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 매출채권,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0017,financials.csv,SY|2024|receivables,value,136843205339,136843205339,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 매출채권,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0018,financials.csv,SY|2023|receivables,value,79845300784,79845300784,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 매출채권,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0019,financials.csv,SY|2025|current_assets,value,872933619483,872933619483,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 유동자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0020,financials.csv,SY|2024|current_assets,value,676663603748,676663603748,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 유동자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0021,financials.csv,SY|2023|current_assets,value,492073951173,492073951173,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 유동자산,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0022,financials.csv,SY|2025|current_liabilities,value,555472302432,555472302432,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 유동부채,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0023,financials.csv,SY|2024|current_liabilities,value,492425282678,492425282678,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 유동부채,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0024,financials.csv,SY|2023|current_liabilities,value,402005197765,402005197765,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 유동부채,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0025,financials.csv,SY|2025|total_assets,value,2196495586892,2196495586892,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 자산총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0026,financials.csv,SY|2024|total_assets,value,1594782196967,1594782196967,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 자산총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0027,financials.csv,SY|2023|total_assets,value,1170302770895,1170302770895,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 자산총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0028,financials.csv,SY|2025|total_liabilities,value,924955585739,924955585739,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 부채총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0029,financials.csv,SY|2024|total_liabilities,value,766748854360,766748854360,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 부채총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0030,financials.csv,SY|2023|total_liabilities,value,593512454782,593512454782,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 부채총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0031,financials.csv,SY|2025|equity,value,1271540001153,1271540001153,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제65기; 계정 자본총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0032,financials.csv,SY|2024|equity,value,828033342607,828033342607,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제64기; 계정 자본총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0033,financials.csv,SY|2023|equity,value,576790316113,576790316113,sy2025_pdf,연결 BS; 인쇄 p.47~48; 제63기; 계정 자본총계,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0034,financials.csv,SY|2025|operating_cashflow,value,309287213625,309287213625,sy2025_pdf,연결 CF; 인쇄 p.50; 제65기; 계정 영업활동현금흐름,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0035,financials.csv,SY|2024|operating_cashflow,value,357904674484,357904674484,sy2025_pdf,연결 CF; 인쇄 p.50; 제64기; 계정 영업활동현금흐름,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0036,financials.csv,SY|2023|operating_cashflow,value,168099691095,168099691095,sy2025_pdf,연결 CF; 인쇄 p.50; 제63기; 계정 영업활동현금흐름,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0037,financials.csv,SY|2025|ppe_purchase_outflow,value,448988219606,448988219606,sy2025_pdf,연결 CF; 인쇄 p.50; 제65기; 계정 유형자산의 취득,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0038,financials.csv,SY|2024|ppe_purchase_outflow,value,228450369489,228450369489,sy2025_pdf,연결 CF; 인쇄 p.50; 제64기; 계정 유형자산의 취득,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0039,financials.csv,SY|2023|ppe_purchase_outflow,value,44996342023,44996342023,sy2025_pdf,연결 CF; 인쇄 p.50; 제63기; 계정 유형자산의 취득,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0040,financials.csv,SY|2025|tax_paid_outflow,value,112306213542,112306213542,sy2025_pdf,연결 CF; 인쇄 p.50; 제65기; 계정 법인세의 납부,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0041,financials.csv,SY|2024|tax_paid_outflow,value,45177205402,45177205402,sy2025_pdf,연결 CF; 인쇄 p.50; 제64기; 계정 법인세의 납부,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0042,financials.csv,SY|2023|tax_paid_outflow,value,28031960908,28031960908,sy2025_pdf,연결 CF; 인쇄 p.50; 제63기; 계정 법인세의 납부,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0043,financials.csv,SY|2022|revenue,value,909036571591,909036571591,sy2023,sy2023:t412:r1; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0044,financials.csv,SY|2022|cost_of_sales,value,657814038196,657814038196,sy2023,sy2023:t412:r2; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0045,financials.csv,SY|2022|sga,value,160846857257,160846857257,sy2023,sy2023:t412:r4; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0046,financials.csv,SY|2022|operating_profit,value,90375676138,90375676138,sy2023,sy2023:t412:r5; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0047,financials.csv,SY|2022|inventory,value,110337462516,110337462516,sy2023,sy2023:t410:r7; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0048,financials.csv,SY|2022|receivables,value,83610717020,83610717020,sy2023,sy2023:t410:r5; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0049,financials.csv,SY|2022|current_assets,value,348640276501,348640276501,sy2023,sy2023:t410:r2; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0050,financials.csv,SY|2022|current_liabilities,value,225328097793,225328097793,sy2023,sy2023:t410:r25; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0051,financials.csv,SY|2022|total_assets,value,924929490964,924929490964,sy2023,sy2023:t410:r23; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0052,financials.csv,SY|2022|total_liabilities,value,470165749462,470165749462,sy2023,sy2023:t410:r39; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0053,financials.csv,SY|2022|equity,value,454763741502,454763741502,sy2023,sy2023:t410:r47; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0054,financials.csv,SY|2022|operating_cashflow,value,47787143112,47787143112,sy2023,sy2023:t416:r1; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0055,financials.csv,SY|2022|ppe_purchase_outflow,value,86894413646,86894413646,sy2023,sy2023:t416:r6; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0056,financials.csv,SY|2022|tax_paid_outflow,value,17718535671,17718535671,sy2023,sy2023:t416:r3; 제62기(2022),계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0057,financials.csv,NS|2022|revenue,value,3129065208087,3129065208087,ns2023,ns2023:t97:r1; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0058,financials.csv,NS|2022|cost_of_sales,value,2229502633084,2229502633084,ns2023,ns2023:t97:r4; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0059,financials.csv,NS|2022|sga,value,787389718287,787389718287,ns2023,ns2023:t97:r6; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0060,financials.csv,NS|2022|operating_profit,value,112172856716,112172856716,ns2023,ns2023:t97:r7; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0061,financials.csv,NS|2022|inventory,value,296880553453,296880553453,ns2023,ns2023:t95:r8; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0062,financials.csv,NS|2022|receivables,value,279227304177,279227304177,ns2023,ns2023:t95:r6; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0063,financials.csv,NS|2022|current_assets,value,1208524614820,1208524614820,ns2023,ns2023:t95:r2; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0064,financials.csv,NS|2022|current_liabilities,value,616485543701,616485543701,ns2023,ns2023:t95:r26; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0065,financials.csv,NS|2022|total_assets,value,3034718535547,3034718535547,ns2023,ns2023:t95:r24; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0066,financials.csv,NS|2022|total_liabilities,value,719378356883,719378356883,ns2023,ns2023:t95:r44; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0067,financials.csv,NS|2022|equity,value,2315340178664,2315340178664,ns2023,ns2023:t95:r52; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0068,financials.csv,NS|2022|operating_cashflow,value,159650440148,159650440148,ns2023,ns2023:t103:r1; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0069,financials.csv,NS|2022|ppe_purchase_outflow,value,92861152156,92861152156,ns2023,ns2023:t103:r24; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0070,financials.csv,NS|2022|tax_paid_outflow,value,37970038226,37970038226,ns2023,ns2023:t103:r8; 2022년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0071,financials.csv,NS|2023|revenue,value,3410559367259,3410559367259,ns2025,ns2025:t102:r1; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0072,financials.csv,NS|2023|cost_of_sales,value,2375319699349,2375319699349,ns2025,ns2025:t102:r4; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0073,financials.csv,NS|2023|sga,value,823174924455,823174924455,ns2025,ns2025:t102:r6; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0074,financials.csv,NS|2023|operating_profit,value,212064743455,212064743455,ns2025,ns2025:t102:r7; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0075,financials.csv,NS|2023|inventory,value,318234266905,318234266905,ns2025,ns2025:t100:r8; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0076,financials.csv,NS|2023|receivables,value,292382383365,292382383365,ns2025,ns2025:t100:r6; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0077,financials.csv,NS|2023|current_assets,value,1419816691135,1419816691135,ns2025,ns2025:t100:r2; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0078,financials.csv,NS|2023|current_liabilities,value,696493722736,696493722736,ns2025,ns2025:t100:r26; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0079,financials.csv,NS|2023|total_assets,value,3234751426458,3234751426458,ns2025,ns2025:t100:r24; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0080,financials.csv,NS|2023|total_liabilities,value,793949665281,793949665281,ns2025,ns2025:t100:r46; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0081,financials.csv,NS|2023|equity,value,2440801761177,2440801761177,ns2025,ns2025:t100:r54; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0082,financials.csv,NS|2023|operating_cashflow,value,327223955699,327223955699,ns2025,ns2025:t108:r1; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0083,financials.csv,NS|2023|ppe_purchase_outflow,value,108011202694,108011202694,ns2025,ns2025:t108:r21; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0084,financials.csv,NS|2023|tax_paid_outflow,value,49578033296,49578033296,ns2025,ns2025:t108:r8; 2023년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0085,financials.csv,NS|2024|revenue,value,3438730857998,3438730857998,ns2025,ns2025:t102:r1; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0086,financials.csv,NS|2024|cost_of_sales,value,2473188669478,2473188669478,ns2025,ns2025:t102:r4; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0087,financials.csv,NS|2024|sga,value,802468256590,802468256590,ns2025,ns2025:t102:r6; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0088,financials.csv,NS|2024|operating_profit,value,163073931930,163073931930,ns2025,ns2025:t102:r7; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0089,financials.csv,NS|2024|inventory,value,323189566831,323189566831,ns2025,ns2025:t100:r8; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0090,financials.csv,NS|2024|receivables,value,308271886119,308271886119,ns2025,ns2025:t100:r6; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0091,financials.csv,NS|2024|current_assets,value,1743739590775,1743739590775,ns2025,ns2025:t100:r2; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0092,financials.csv,NS|2024|current_liabilities,value,678174791731,678174791731,ns2025,ns2025:t100:r26; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0093,financials.csv,NS|2024|total_assets,value,3597461570702,3597461570702,ns2025,ns2025:t100:r24; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0094,financials.csv,NS|2024|total_liabilities,value,924886441245,924886441245,ns2025,ns2025:t100:r46; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0095,financials.csv,NS|2024|equity,value,2672575129457,2672575129457,ns2025,ns2025:t100:r54; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0096,financials.csv,NS|2024|operating_cashflow,value,272544275630,272544275630,ns2025,ns2025:t108:r1; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0097,financials.csv,NS|2024|ppe_purchase_outflow,value,122873686381,122873686381,ns2025,ns2025:t108:r21; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0098,financials.csv,NS|2024|tax_paid_outflow,value,63530184459,63530184459,ns2025,ns2025:t108:r8; 2024년 열,기존 추출과 다른 사업연도의 사업보고서 비교열 대조,별도 사업보고서 비교열 대조 일치,2026-11-01,미실시,해당 없음
+A0099,financials.csv,NS|2025|revenue,value,3514315500097,3514315500097,ns2025,ns2025:t102:r1; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0100,financials.csv,NS|2025|cost_of_sales,value,2495381082806,2495381082806,ns2025,ns2025:t102:r4; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0101,financials.csv,NS|2025|sga,value,835001385094,835001385094,ns2025,ns2025:t102:r6; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0102,financials.csv,NS|2025|operating_profit,value,183933032197,183933032197,ns2025,ns2025:t102:r7; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0103,financials.csv,NS|2025|inventory,value,353314247728,353314247728,ns2025,ns2025:t100:r8; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0104,financials.csv,NS|2025|receivables,value,322700751452,322700751452,ns2025,ns2025:t100:r6; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0105,financials.csv,NS|2025|current_assets,value,1960196420067,1960196420067,ns2025,ns2025:t100:r2; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0106,financials.csv,NS|2025|current_liabilities,value,833082759238,833082759238,ns2025,ns2025:t100:r26; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0107,financials.csv,NS|2025|total_assets,value,3822122467403,3822122467403,ns2025,ns2025:t100:r24; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0108,financials.csv,NS|2025|total_liabilities,value,990936608000,990936608000,ns2025,ns2025:t100:r46; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0109,financials.csv,NS|2025|equity,value,2831185859403,2831185859403,ns2025,ns2025:t100:r54; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0110,financials.csv,NS|2025|operating_cashflow,value,268700833743,268700833743,ns2025,ns2025:t108:r1; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0111,financials.csv,NS|2025|ppe_purchase_outflow,value,67592589702,67592589702,ns2025,ns2025:t108:r21; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0112,financials.csv,NS|2025|tax_paid_outflow,value,52923506840,52923506840,ns2025,ns2025:t108:r8; 2025년 열,공시 계정·연도 열 신규 추출; 독립 데이터와 대조 아님,공시 원문 신규 추출,2026-11-01,미실시,해당 없음
+A0113,quarterly_financials.csv,SY|2023|1,revenue,245561864921,245561864921,sy2023h1;sy2023q3,sy2023h1:t103:r2;sy2023q3:t101:r2; 연간 financials.csv SY|2023|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0114,quarterly_financials.csv,SY|2023|1,cost_of_sales,175182021765,175182021765,sy2023h1;sy2023q3,sy2023h1:t103:r3;sy2023q3:t101:r3; 연간 financials.csv SY|2023|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0115,quarterly_financials.csv,SY|2023|1,sga,46517384316,46517384316,sy2023h1;sy2023q3,sy2023h1:t103:r5;sy2023q3:t101:r5; 연간 financials.csv SY|2023|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0116,quarterly_financials.csv,SY|2023|1,operating_profit,23862458840,23862458840,sy2023h1;sy2023q3,sy2023h1:t103:r6;sy2023q3:t101:r6; 연간 financials.csv SY|2023|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0117,quarterly_financials.csv,SY|2023|2,revenue,285360760301,285360760301,sy2023h1;sy2023q3,sy2023h1:t103:r2;sy2023q3:t101:r2; 연간 financials.csv SY|2023|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0118,quarterly_financials.csv,SY|2023|2,cost_of_sales,184561988512,184561988512,sy2023h1;sy2023q3,sy2023h1:t103:r3;sy2023q3:t101:r3; 연간 financials.csv SY|2023|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0119,quarterly_financials.csv,SY|2023|2,sga,56748806444,56748806444,sy2023h1;sy2023q3,sy2023h1:t103:r5;sy2023q3:t101:r5; 연간 financials.csv SY|2023|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0120,quarterly_financials.csv,SY|2023|2,operating_profit,44049965345,44049965345,sy2023h1;sy2023q3,sy2023h1:t103:r6;sy2023q3:t101:r6; 연간 financials.csv SY|2023|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0121,quarterly_financials.csv,SY|2023|3,revenue,335246630561,335246630561,sy2023h1;sy2023q3,sy2023h1:t103:r2;sy2023q3:t101:r2; 연간 financials.csv SY|2023|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0122,quarterly_financials.csv,SY|2023|3,cost_of_sales,218085756624,218085756624,sy2023h1;sy2023q3,sy2023h1:t103:r3;sy2023q3:t101:r3; 연간 financials.csv SY|2023|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0123,quarterly_financials.csv,SY|2023|3,sga,73730212496,73730212496,sy2023h1;sy2023q3,sy2023h1:t103:r5;sy2023q3:t101:r5; 연간 financials.csv SY|2023|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0124,quarterly_financials.csv,SY|2023|3,operating_profit,43430661441,43430661441,sy2023h1;sy2023q3,sy2023h1:t103:r6;sy2023q3:t101:r6; 연간 financials.csv SY|2023|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0125,quarterly_financials.csv,SY|2023|4,revenue,326745352197,326745352197,sy2023h1;sy2023q3,sy2023h1:t103:r2;sy2023q3:t101:r2; 연간 financials.csv SY|2023|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0126,quarterly_financials.csv,SY|2023|4,cost_of_sales,198352796067,198352796067,sy2023h1;sy2023q3,sy2023h1:t103:r3;sy2023q3:t101:r3; 연간 financials.csv SY|2023|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0127,quarterly_financials.csv,SY|2023|4,sga,92221550977,92221550977,sy2023h1;sy2023q3,sy2023h1:t103:r5;sy2023q3:t101:r5; 연간 financials.csv SY|2023|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0128,quarterly_financials.csv,SY|2023|4,operating_profit,36171005153,36171005153,sy2023h1;sy2023q3,sy2023h1:t103:r6;sy2023q3:t101:r6; 연간 financials.csv SY|2023|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0129,quarterly_financials.csv,SY|2024|1,revenue,385748770635,385748770635,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2024|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0130,quarterly_financials.csv,SY|2024|1,cost_of_sales,222209369507,222209369507,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2024|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0131,quarterly_financials.csv,SY|2024|1,sga,83419691520,83419691520,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2024|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0132,quarterly_financials.csv,SY|2024|1,operating_profit,80119709608,80119709608,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2024|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0133,quarterly_financials.csv,SY|2024|2,revenue,424443489341,424443489341,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2024|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0134,quarterly_financials.csv,SY|2024|2,cost_of_sales,232030030919,232030030919,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2024|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0135,quarterly_financials.csv,SY|2024|2,sga,102945734785,102945734785,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2024|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0136,quarterly_financials.csv,SY|2024|2,operating_profit,89467723637,89467723637,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2024|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0137,quarterly_financials.csv,SY|2024|3,revenue,438969526997,438969526997,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2024|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0138,quarterly_financials.csv,SY|2024|3,cost_of_sales,247822080368,247822080368,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2024|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0139,quarterly_financials.csv,SY|2024|3,sga,103833375083,103833375083,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2024|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0140,quarterly_financials.csv,SY|2024|3,operating_profit,87314071546,87314071546,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2024|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0141,quarterly_financials.csv,SY|2024|4,revenue,478853216773,478853216773,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2024|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0142,quarterly_financials.csv,SY|2024|4,cost_of_sales,302736214130,302736214130,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2024|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0143,quarterly_financials.csv,SY|2024|4,sga,88449356991,88449356991,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2024|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0144,quarterly_financials.csv,SY|2024|4,operating_profit,87667645652,87667645652,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2024|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0145,quarterly_financials.csv,SY|2025|1,revenue,529013206877,529013206877,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2025|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0146,quarterly_financials.csv,SY|2025|1,cost_of_sales,284077234879,284077234879,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2025|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0147,quarterly_financials.csv,SY|2025|1,sga,110947517637,110947517637,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2025|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0148,quarterly_financials.csv,SY|2025|1,operating_profit,133988454361,133988454361,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2025|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0149,quarterly_financials.csv,SY|2025|2,revenue,553077609232,553077609232,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2025|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0150,quarterly_financials.csv,SY|2025|2,cost_of_sales,297620126443,297620126443,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2025|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0151,quarterly_financials.csv,SY|2025|2,sga,135369527971,135369527971,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2025|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0152,quarterly_financials.csv,SY|2025|2,operating_profit,120087954818,120087954818,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2025|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0153,quarterly_financials.csv,SY|2025|3,revenue,632015696590,632015696590,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2025|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0154,quarterly_financials.csv,SY|2025|3,cost_of_sales,370781649361,370781649361,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2025|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0155,quarterly_financials.csv,SY|2025|3,sga,130334312768,130334312768,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2025|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0156,quarterly_financials.csv,SY|2025|3,operating_profit,130899734461,130899734461,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2025|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0157,quarterly_financials.csv,SY|2025|4,revenue,637678651087,637678651087,sy2025h1;sy2025q3,sy2025h1:t110:r2;sy2025q3:t104:r2; 연간 financials.csv SY|2025|revenue,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0158,quarterly_financials.csv,SY|2025|4,cost_of_sales,346277605620,346277605620,sy2025h1;sy2025q3,sy2025h1:t110:r3;sy2025q3:t104:r3; 연간 financials.csv SY|2025|cost_of_sales,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0159,quarterly_financials.csv,SY|2025|4,sga,152188783047,152188783047,sy2025h1;sy2025q3,sy2025h1:t110:r5;sy2025q3:t104:r5; 연간 financials.csv SY|2025|sga,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0160,quarterly_financials.csv,SY|2025|4,operating_profit,139212262420,139212262420,sy2025h1;sy2025q3,sy2025h1:t110:r6;sy2025q3:t104:r6; 연간 financials.csv SY|2025|operating_profit,반기·9개월·연간 원문에서 단일 분기 재계산,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0161,quarterly_financials.csv,NS|2023|1,revenue,860386309724,860386309724,ns2024h1;ns2023q3,ns2024h1:t94:r2;ns2023q3:t91:r2; 연간 financials.csv NS|2023|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0162,quarterly_financials.csv,NS|2023|1,cost_of_sales,596352593349,596352593349,ns2024h1;ns2023q3,ns2024h1:t94:r5;ns2023q3:t91:r5; 연간 financials.csv NS|2023|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0163,quarterly_financials.csv,NS|2023|1,sga,200280312992,200280312992,ns2024h1;ns2023q3,ns2024h1:t94:r7;ns2023q3:t91:r7; 연간 financials.csv NS|2023|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0164,quarterly_financials.csv,NS|2023|1,operating_profit,63753403383,63753403383,ns2024h1;ns2023q3,ns2024h1:t94:r8;ns2023q3:t91:r8; 연간 financials.csv NS|2023|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0165,quarterly_financials.csv,NS|2023|2,revenue,837521658064,837521658064,ns2024h1;ns2023q3,ns2024h1:t94:r2;ns2023q3:t91:r2; 연간 financials.csv NS|2023|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0166,quarterly_financials.csv,NS|2023|2,cost_of_sales,569355603192,569355603192,ns2024h1;ns2023q3,ns2024h1:t94:r5;ns2023q3:t91:r5; 연간 financials.csv NS|2023|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0167,quarterly_financials.csv,NS|2023|2,sga,214467502295,214467502295,ns2024h1;ns2023q3,ns2024h1:t94:r7;ns2023q3:t91:r7; 연간 financials.csv NS|2023|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0168,quarterly_financials.csv,NS|2023|2,operating_profit,53698552577,53698552577,ns2024h1;ns2023q3,ns2024h1:t94:r8;ns2023q3:t91:r8; 연간 financials.csv NS|2023|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0169,quarterly_financials.csv,NS|2023|3,revenue,855913210848,855913210848,ns2024h1;ns2023q3,ns2024h1:t94:r2;ns2023q3:t91:r2; 연간 financials.csv NS|2023|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0170,quarterly_financials.csv,NS|2023|3,cost_of_sales,593774319689,593774319689,ns2024h1;ns2023q3,ns2024h1:t94:r5;ns2023q3:t91:r5; 연간 financials.csv NS|2023|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0171,quarterly_financials.csv,NS|2023|3,sga,206463980243,206463980243,ns2024h1;ns2023q3,ns2024h1:t94:r7;ns2023q3:t91:r7; 연간 financials.csv NS|2023|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0172,quarterly_financials.csv,NS|2023|3,operating_profit,55674910916,55674910916,ns2024h1;ns2023q3,ns2024h1:t94:r8;ns2023q3:t91:r8; 연간 financials.csv NS|2023|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0173,quarterly_financials.csv,NS|2023|4,revenue,856738188623,856738188623,ns2024h1;ns2023q3,ns2024h1:t94:r2;ns2023q3:t91:r2; 연간 financials.csv NS|2023|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0174,quarterly_financials.csv,NS|2023|4,cost_of_sales,615837183119,615837183119,ns2024h1;ns2023q3,ns2024h1:t94:r5;ns2023q3:t91:r5; 연간 financials.csv NS|2023|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0175,quarterly_financials.csv,NS|2023|4,sga,201963128925,201963128925,ns2024h1;ns2023q3,ns2024h1:t94:r7;ns2023q3:t91:r7; 연간 financials.csv NS|2023|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0176,quarterly_financials.csv,NS|2023|4,operating_profit,38937876579,38937876579,ns2024h1;ns2023q3,ns2024h1:t94:r8;ns2023q3:t91:r8; 연간 financials.csv NS|2023|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0177,quarterly_financials.csv,NS|2024|1,revenue,872535080710,872535080710,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2024|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0178,quarterly_financials.csv,NS|2024|1,cost_of_sales,619735341296,619735341296,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2024|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0179,quarterly_financials.csv,NS|2024|1,sga,191417258615,191417258615,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2024|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0180,quarterly_financials.csv,NS|2024|1,operating_profit,61382480799,61382480799,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2024|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0181,quarterly_financials.csv,NS|2024|2,revenue,860699099208,860699099208,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2024|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0182,quarterly_financials.csv,NS|2024|2,cost_of_sales,613452108743,613452108743,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2024|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0183,quarterly_financials.csv,NS|2024|2,sga,203568796078,203568796078,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2024|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0184,quarterly_financials.csv,NS|2024|2,operating_profit,43678194387,43678194387,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2024|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0185,quarterly_financials.csv,NS|2024|3,revenue,850390703996,850390703996,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2024|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0186,quarterly_financials.csv,NS|2024|3,cost_of_sales,613524680004,613524680004,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2024|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0187,quarterly_financials.csv,NS|2024|3,sga,199263758001,199263758001,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2024|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0188,quarterly_financials.csv,NS|2024|3,operating_profit,37602265991,37602265991,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2024|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0189,quarterly_financials.csv,NS|2024|4,revenue,855105974084,855105974084,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2024|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0190,quarterly_financials.csv,NS|2024|4,cost_of_sales,626476539435,626476539435,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2024|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0191,quarterly_financials.csv,NS|2024|4,sga,208218443896,208218443896,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2024|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0192,quarterly_financials.csv,NS|2024|4,operating_profit,20410990753,20410990753,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2024|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0193,quarterly_financials.csv,NS|2025|1,revenue,893036319476,893036319476,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2025|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0194,quarterly_financials.csv,NS|2025|1,cost_of_sales,639927953421,639927953421,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2025|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0195,quarterly_financials.csv,NS|2025|1,sga,197056598680,197056598680,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2025|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0196,quarterly_financials.csv,NS|2025|1,operating_profit,56051767375,56051767375,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2025|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0197,quarterly_financials.csv,NS|2025|2,revenue,867725185755,867725185755,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2025|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0198,quarterly_financials.csv,NS|2025|2,cost_of_sales,623574391019,623574391019,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2025|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0199,quarterly_financials.csv,NS|2025|2,sga,203998566083,203998566083,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2025|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0200,quarterly_financials.csv,NS|2025|2,operating_profit,40152228653,40152228653,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2025|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0201,quarterly_financials.csv,NS|2025|3,revenue,871156324854,871156324854,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2025|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0202,quarterly_financials.csv,NS|2025|3,cost_of_sales,611107940188,611107940188,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2025|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0203,quarterly_financials.csv,NS|2025|3,sga,205672834474,205672834474,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2025|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0204,quarterly_financials.csv,NS|2025|3,operating_profit,54375550192,54375550192,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2025|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0205,quarterly_financials.csv,NS|2025|4,revenue,882397670012,882397670012,ns2025h1;ns2025q3,ns2025h1:t88:r2;ns2025q3:t88:r2; 연간 financials.csv NS|2025|revenue,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0206,quarterly_financials.csv,NS|2025|4,cost_of_sales,620770798178,620770798178,ns2025h1;ns2025q3,ns2025h1:t88:r5;ns2025q3:t88:r5; 연간 financials.csv NS|2025|cost_of_sales,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0207,quarterly_financials.csv,NS|2025|4,sga,228273385857,228273385857,ns2025h1;ns2025q3,ns2025h1:t88:r7;ns2025q3:t88:r7; 연간 financials.csv NS|2025|sga,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0208,quarterly_financials.csv,NS|2025|4,operating_profit,33353485977,33353485977,ns2025h1;ns2025q3,ns2025h1:t88:r8;ns2025q3:t88:r8; 연간 financials.csv NS|2025|operating_profit,공시 반기·9개월·연간 값으로 분기 계산; 독립 데이터와 대조 아님,공시 원문 기반 신규 계산,2026-11-01,미실시,해당 없음
+A0209,production.csv,SY|2023|원주|면류,capacity_value,487317,487317,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0210,production.csv,SY|2023|원주|면류,production_value,370494,370494,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0211,production.csv,SY|2023|원주|면류,reported_time_utilization_pct,76.03,76.03,sy2023,sy2023:t357:r1,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0212,production.csv,SY|2024|원주|면류,capacity_value,560168,560168,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0213,production.csv,SY|2024|원주|면류,production_value,407755,407755,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0214,production.csv,SY|2024|원주|면류,reported_time_utilization_pct,72.79,72.79,sy2024,sy2024:t46:r1,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0215,production.csv,SY|2025|원주|면류,capacity_value,641107,641107,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0216,production.csv,SY|2025|원주|면류,production_value,486744,486744,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0217,production.csv,SY|2025|원주|면류,reported_time_utilization_pct,75.9,75.9,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0218,production.csv,SY|2023|익산|면류,capacity_value,151415,151415,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0219,production.csv,SY|2023|익산|면류,production_value,122979,122979,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0220,production.csv,SY|2023|익산|면류,reported_time_utilization_pct,81.22,81.22,sy2023,sy2023:t357:r3,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0221,production.csv,SY|2024|익산|면류,capacity_value,156694,156694,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0222,production.csv,SY|2024|익산|면류,production_value,149960,149960,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0223,production.csv,SY|2024|익산|면류,reported_time_utilization_pct,95.7,95.70,sy2024,sy2024:t46:r3,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0224,production.csv,SY|2025|익산|면류,capacity_value,205664,205664,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0225,production.csv,SY|2025|익산|면류,production_value,179523,179523,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0226,production.csv,SY|2025|익산|면류,reported_time_utilization_pct,87.3,87.3,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0227,production.csv,SY|2023|밀양|면류,capacity_value,311157,311157,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0228,production.csv,SY|2023|밀양|면류,production_value,189691,189691,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0229,production.csv,SY|2023|밀양|면류,reported_time_utilization_pct,60.96,60.96,sy2023,sy2023:t357:r5,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0230,production.csv,SY|2024|밀양|면류,capacity_value,291675,291675,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0231,production.csv,SY|2024|밀양|면류,production_value,241593,241593,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0232,production.csv,SY|2024|밀양|면류,reported_time_utilization_pct,82.83,82.83,sy2024,sy2024:t46:r5,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0233,production.csv,SY|2025|밀양|면류,capacity_value,605866,605866,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0234,production.csv,SY|2025|밀양|면류,production_value,331094,331094,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0235,production.csv,SY|2025|밀양|면류,reported_time_utilization_pct,54.6,54.6,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0236,production.csv,SY|2023|원주|스낵,capacity_value,19815,19815,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0237,production.csv,SY|2023|원주|스낵,production_value,12343,12343,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0238,production.csv,SY|2023|원주|스낵,reported_time_utilization_pct,62.29,62.29,sy2023,sy2023:t357:r2,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0239,production.csv,SY|2024|원주|스낵,capacity_value,19901,19901,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0240,production.csv,SY|2024|원주|스낵,production_value,11374,11374,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0241,production.csv,SY|2024|원주|스낵,reported_time_utilization_pct,57.15,57.15,sy2024,sy2024:t46:r2,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0242,production.csv,SY|2025|원주|스낵,capacity_value,21385,21385,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0243,production.csv,SY|2025|원주|스낵,production_value,10902,10902,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0244,production.csv,SY|2025|원주|스낵,reported_time_utilization_pct,51.0,51.0,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0245,production.csv,SY|2023|원주|조미소스소재,capacity_value,84008,84008,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0246,production.csv,SY|2023|원주|조미소스소재,production_value,29280,29280,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0247,production.csv,SY|2023|원주|조미소스소재,reported_time_utilization_pct,55.74,55.74,sy2023,sy2023:t357:r4,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0248,production.csv,SY|2024|원주|조미소스소재,capacity_value,84637,84637,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0249,production.csv,SY|2024|원주|조미소스소재,production_value,31912,31912,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0250,production.csv,SY|2024|원주|조미소스소재,reported_time_utilization_pct,55.9,55.90,sy2024,sy2024:t46:r4,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0251,production.csv,SY|2025|원주|조미소스소재,capacity_value,84855,84855,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0252,production.csv,SY|2025|원주|조미소스소재,production_value,30281,30281,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0253,production.csv,SY|2025|원주|조미소스소재,reported_time_utilization_pct,50.6,50.6,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0254,production.csv,SY|2023|밀양|조미소스소재,capacity_value,,,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,공시 해당 값 없음,2026-11-01,미실시,해당 없음
+A0255,production.csv,SY|2023|밀양|조미소스소재,production_value,,,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,공시 해당 값 없음,2026-11-01,미실시,해당 없음
+A0256,production.csv,SY|2023|밀양|조미소스소재,reported_time_utilization_pct,,,sy2025_pdf,인쇄 p.18~19; 과거 해당 행 없음,계정명·행·연도 열 대조,공시 해당 행 없음,2026-11-01,미실시,해당 없음
+A0257,production.csv,SY|2024|밀양|조미소스소재,capacity_value,,,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,공시 해당 값 없음,2026-11-01,미실시,해당 없음
+A0258,production.csv,SY|2024|밀양|조미소스소재,production_value,,,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,공시 해당 값 없음,2026-11-01,미실시,해당 없음
+A0259,production.csv,SY|2024|밀양|조미소스소재,reported_time_utilization_pct,,,sy2025_pdf,인쇄 p.18~19; 과거 해당 행 없음,계정명·행·연도 열 대조,공시 해당 행 없음,2026-11-01,미실시,해당 없음
+A0260,production.csv,SY|2025|밀양|조미소스소재,capacity_value,31087,31087,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0261,production.csv,SY|2025|밀양|조미소스소재,production_value,14205,14205,sy2025_pdf,인쇄 p.18~19; 품목·공장·연도 열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0262,production.csv,SY|2025|밀양|조미소스소재,reported_time_utilization_pct,45.7,45.7,sy2025_pdf,인쇄 p.19 공장별 가동률,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0263,foreign_entities.csv,SY|2023|일본,revenue,23612845,23612845,sy2024,sy2024:t112:r6,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0264,foreign_entities.csv,SY|2023|미국,revenue,159850126,159850126,sy2024,sy2024:t112:r7,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0265,foreign_entities.csv,SY|2023|중국,revenue,221327352,221327352,sy2024,sy2024:t112:r8,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0266,foreign_entities.csv,SY|2023|인도네시아,revenue,498578,498578,sy2024,sy2024:t112:r10,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0267,foreign_entities.csv,SY|2023|유럽,revenue,,,sy2024,2024 보고서 연결대상 변동; 2024 신규 설립,계정명·행·연도 열 대조,해당 없음: 설립 전,2026-11-01,미실시,해당 없음
+A0268,foreign_entities.csv,SY|2024|일본,revenue,26314092,26314092,sy2024,sy2024:t110:r6,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0269,foreign_entities.csv,SY|2024|미국,revenue,378562356,378562356,sy2024,sy2024:t110:r7,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0270,foreign_entities.csv,SY|2024|중국,revenue,411034483,411034483,sy2024,sy2024:t110:r8,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0271,foreign_entities.csv,SY|2024|인도네시아,revenue,13515127,13515127,sy2024,sy2024:t110:r10,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0272,foreign_entities.csv,SY|2024|유럽,revenue,32622757,32622757,sy2024,sy2024:t110:r13,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0273,foreign_entities.csv,SY|2025|일본,revenue,33932514,33932514,sy2025_pdf,인쇄 p.53 종속기업 요약재무정보 매출열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0274,foreign_entities.csv,SY|2025|미국,revenue,595240184,595240184,sy2025_pdf,인쇄 p.53 종속기업 요약재무정보 매출열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0275,foreign_entities.csv,SY|2025|중국,revenue,580399826,580399826,sy2025_pdf,인쇄 p.53 종속기업 요약재무정보 매출열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0276,foreign_entities.csv,SY|2025|인도네시아,revenue,23699059,23699059,sy2025_pdf,인쇄 p.53 종속기업 요약재무정보 매출열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0277,foreign_entities.csv,SY|2025|유럽,revenue,183061064,183061064,sy2025_pdf,인쇄 p.53 종속기업 요약재무정보 매출열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0278,segments.csv,SY|2023|면스낵,exports,793418,793418,sy2025_pdf,인쇄 p.27; 면스낵; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0279,segments.csv,SY|2023|면스낵,domestic,329115,329115,sy2025_pdf,인쇄 p.27; 면스낵; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0280,segments.csv,SY|2023|면스낵,total,1122533,1122533,sy2025_pdf,인쇄 p.27; 면스낵; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0281,segments.csv,SY|2024|면스낵,exports,1306440,1306440,sy2025_pdf,인쇄 p.27; 면스낵; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0282,segments.csv,SY|2024|면스낵,domestic,280173,280173,sy2025_pdf,인쇄 p.27; 면스낵; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0283,segments.csv,SY|2024|면스낵,total,1586613,1586613,sy2025_pdf,인쇄 p.27; 면스낵; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0284,segments.csv,SY|2025|면스낵,exports,1823917,1823917,sy2025_pdf,인쇄 p.27; 면스낵; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0285,segments.csv,SY|2025|면스낵,domestic,331601,331601,sy2025_pdf,인쇄 p.27; 면스낵; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0286,segments.csv,SY|2025|면스낵,total,2155518,2155518,sy2025_pdf,인쇄 p.27; 면스낵; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0287,segments.csv,SY|2023|소스조미소재,exports,16145,16145,sy2025_pdf,인쇄 p.27; 소스조미소재; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0288,segments.csv,SY|2023|소스조미소재,domestic,22028,22028,sy2025_pdf,인쇄 p.27; 소스조미소재; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0289,segments.csv,SY|2023|소스조미소재,total,38173,38173,sy2025_pdf,인쇄 p.27; 소스조미소재; 2023열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0290,segments.csv,SY|2024|소스조미소재,exports,25885,25885,sy2025_pdf,인쇄 p.27; 소스조미소재; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0291,segments.csv,SY|2024|소스조미소재,domestic,17217,17217,sy2025_pdf,인쇄 p.27; 소스조미소재; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0292,segments.csv,SY|2024|소스조미소재,total,43102,43102,sy2025_pdf,인쇄 p.27; 소스조미소재; 2024열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0293,segments.csv,SY|2025|소스조미소재,exports,49725,49725,sy2025_pdf,인쇄 p.27; 소스조미소재; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0294,segments.csv,SY|2025|소스조미소재,domestic,20902,20902,sy2025_pdf,인쇄 p.27; 소스조미소재; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0295,segments.csv,SY|2025|소스조미소재,total,70627,70627,sy2025_pdf,인쇄 p.27; 소스조미소재; 2025열,계정명·행·연도 열 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0296,search_monthly.csv,Worldwide|2023-01,index,20.0,20,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0297,search_monthly.csv,Worldwide|2023-02,index,17.0,17,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0298,search_monthly.csv,Worldwide|2023-03,index,18.0,18,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0299,search_monthly.csv,Worldwide|2023-04,index,19.0,19,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0300,search_monthly.csv,Worldwide|2023-05,index,24.0,24,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0301,search_monthly.csv,Worldwide|2023-06,index,29.0,29,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0302,search_monthly.csv,Worldwide|2023-07,index,29.0,29,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0303,search_monthly.csv,Worldwide|2023-08,index,34.0,34,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0304,search_monthly.csv,Worldwide|2023-09,index,35.0,35,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0305,search_monthly.csv,Worldwide|2023-10,index,37.0,37,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0306,search_monthly.csv,Worldwide|2023-11,index,38.0,38,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0307,search_monthly.csv,Worldwide|2023-12,index,52.0,52,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0308,search_monthly.csv,Worldwide|2024-01,index,67.0,67,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0309,search_monthly.csv,Worldwide|2024-02,index,56.0,56,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0310,search_monthly.csv,Worldwide|2024-03,index,54.0,54,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0311,search_monthly.csv,Worldwide|2024-04,index,57.0,57,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0312,search_monthly.csv,Worldwide|2024-05,index,58.0,58,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0313,search_monthly.csv,Worldwide|2024-06,index,70.0,70,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0314,search_monthly.csv,Worldwide|2024-07,index,66.0,66,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0315,search_monthly.csv,Worldwide|2024-08,index,64.0,64,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0316,search_monthly.csv,Worldwide|2024-09,index,68.0,68,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0317,search_monthly.csv,Worldwide|2024-10,index,65.0,65,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0318,search_monthly.csv,Worldwide|2024-11,index,65.0,65,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0319,search_monthly.csv,Worldwide|2024-12,index,75.0,75,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0320,search_monthly.csv,Worldwide|2025-01,index,84.0,84,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0321,search_monthly.csv,Worldwide|2025-02,index,73.0,73,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0322,search_monthly.csv,Worldwide|2025-03,index,71.0,71,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0323,search_monthly.csv,Worldwide|2025-04,index,67.0,67,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0324,search_monthly.csv,Worldwide|2025-05,index,68.0,68,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0325,search_monthly.csv,Worldwide|2025-06,index,71.0,71,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0326,search_monthly.csv,Worldwide|2025-07,index,89.0,89,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0327,search_monthly.csv,Worldwide|2025-08,index,100.0,100,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0328,search_monthly.csv,Worldwide|2025-09,index,89.0,89,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0329,search_monthly.csv,Worldwide|2025-10,index,88.0,88,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0330,search_monthly.csv,Worldwide|2025-11,index,89.0,89,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0331,search_monthly.csv,Worldwide|2025-12,index,89.0,89,user_search,sources/time_series_Worldwide_20230101-0000_20261027-2109.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0332,search_monthly.csv,US|2023-01,index,19.0,19,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0333,search_monthly.csv,US|2023-02,index,16.0,16,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0334,search_monthly.csv,US|2023-03,index,16.0,16,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0335,search_monthly.csv,US|2023-04,index,16.0,16,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0336,search_monthly.csv,US|2023-05,index,21.0,21,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0337,search_monthly.csv,US|2023-06,index,24.0,24,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0338,search_monthly.csv,US|2023-07,index,24.0,24,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0339,search_monthly.csv,US|2023-08,index,25.0,25,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0340,search_monthly.csv,US|2023-09,index,28.0,28,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0341,search_monthly.csv,US|2023-10,index,27.0,27,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0342,search_monthly.csv,US|2023-11,index,34.0,34,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0343,search_monthly.csv,US|2023-12,index,52.0,52,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0344,search_monthly.csv,US|2024-01,index,73.0,73,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0345,search_monthly.csv,US|2024-02,index,52.0,52,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0346,search_monthly.csv,US|2024-03,index,50.0,50,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0347,search_monthly.csv,US|2024-04,index,57.0,57,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0348,search_monthly.csv,US|2024-05,index,61.0,61,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0349,search_monthly.csv,US|2024-06,index,70.0,70,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0350,search_monthly.csv,US|2024-07,index,64.0,64,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0351,search_monthly.csv,US|2024-08,index,61.0,61,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0352,search_monthly.csv,US|2024-09,index,70.0,70,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0353,search_monthly.csv,US|2024-10,index,60.0,60,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0354,search_monthly.csv,US|2024-11,index,65.0,65,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0355,search_monthly.csv,US|2024-12,index,72.0,72,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0356,search_monthly.csv,US|2025-01,index,78.0,78,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0357,search_monthly.csv,US|2025-02,index,63.0,63,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0358,search_monthly.csv,US|2025-03,index,62.0,62,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0359,search_monthly.csv,US|2025-04,index,60.0,60,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0360,search_monthly.csv,US|2025-05,index,59.0,59,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0361,search_monthly.csv,US|2025-06,index,66.0,66,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0362,search_monthly.csv,US|2025-07,index,84.0,84,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0363,search_monthly.csv,US|2025-08,index,100.0,100,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0364,search_monthly.csv,US|2025-09,index,72.0,72,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0365,search_monthly.csv,US|2025-10,index,76.0,76,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0366,search_monthly.csv,US|2025-11,index,82.0,82,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0367,search_monthly.csv,US|2025-12,index,82.0,82,user_search,sources/time_series_US_20230101-0900_20261027-2112.csv,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0368,search_monthly.csv,KR|2023-01,index,58.57286,58.57286,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0369,search_monthly.csv,KR|2023-02,index,52.13913,52.13913,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0370,search_monthly.csv,KR|2023-03,index,68.1327,68.1327,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0371,search_monthly.csv,KR|2023-04,index,71.00852,71.00852,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0372,search_monthly.csv,KR|2023-05,index,56.48194,56.48194,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0373,search_monthly.csv,KR|2023-06,index,51.32801,51.32801,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0374,search_monthly.csv,KR|2023-07,index,50.47008,50.47008,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0375,search_monthly.csv,KR|2023-08,index,46.78668,46.78668,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0376,search_monthly.csv,KR|2023-09,index,45.88196,45.88196,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0377,search_monthly.csv,KR|2023-10,index,44.75176,44.75176,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0378,search_monthly.csv,KR|2023-11,index,44.58798,44.58798,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0379,search_monthly.csv,KR|2023-12,index,41.18251,41.18251,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0380,search_monthly.csv,KR|2024-01,index,53.88193,53.88193,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0381,search_monthly.csv,KR|2024-02,index,46.5527,46.5527,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0382,search_monthly.csv,KR|2024-03,index,45.90677,45.90677,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0383,search_monthly.csv,KR|2024-04,index,48.01684,48.01684,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0384,search_monthly.csv,KR|2024-05,index,74.3367,74.3367,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0385,search_monthly.csv,KR|2024-06,index,69.76063,69.76063,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0386,search_monthly.csv,KR|2024-07,index,55.69279,55.69279,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0387,search_monthly.csv,KR|2024-08,index,51.78533,51.78533,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0388,search_monthly.csv,KR|2024-09,index,45.50333,45.50333,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0389,search_monthly.csv,KR|2024-10,index,47.50563,47.50563,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0390,search_monthly.csv,KR|2024-11,index,46.18684,46.18684,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0391,search_monthly.csv,KR|2024-12,index,41.90218,41.90218,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0392,search_monthly.csv,KR|2025-01,index,50.96357,50.96357,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0393,search_monthly.csv,KR|2025-02,index,100.0,100.0,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0394,search_monthly.csv,KR|2025-03,index,73.24409,73.24409,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0395,search_monthly.csv,KR|2025-04,index,49.10024,49.10024,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0396,search_monthly.csv,KR|2025-05,index,56.47981,56.47981,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0397,search_monthly.csv,KR|2025-06,index,54.3981,54.3981,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0398,search_monthly.csv,KR|2025-07,index,59.65555,59.65555,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0399,search_monthly.csv,KR|2025-08,index,65.79645,65.79645,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0400,search_monthly.csv,KR|2025-09,index,54.16767,54.16767,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0401,search_monthly.csv,KR|2025-10,index,50.54737,50.54737,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0402,search_monthly.csv,KR|2025-11,index,51.69741,51.69741,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0403,search_monthly.csv,KR|2025-12,index,51.90586,51.90586,user_search,sources/datalab (1).xlsx,원본 날짜와 상대지수 대조,원문 대조 일치,2026-11-01,미실시,해당 없음
+A0404,brand_sales.csv,SY|2023,revenue,8400,8400,brand2023,본문 브랜드 매출 2023년 열,보도 본문 수치 대조,보도값 일치; 감사 공시 아님,2026-11-01,미실시,해당 없음
+A0405,brand_sales.csv,SY|2024,revenue,12100,12100,brand2024,본문 국내외 매출; 수출 10500과 구분,보도 본문 수치 대조,보도값 일치; 감사 공시 아님,2026-11-01,미실시,해당 없음
+A0406,brand_sales.csv,SY|2025,revenue,16000,16000,brand2025,본문 지난해 브랜드 국내외 매출; 해외 14000과 구분,보도 본문 수치 대조,보도값 일치; 감사 공시 아님,2026-11-01,미실시,해당 없음
+B0407,nongshim_region_revenue.csv,NS|2023|한국,external_revenue,2430455647,2430455647,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0408,nongshim_region_revenue.csv,NS|2023|중국,external_revenue,189276788,189276788,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0409,nongshim_region_revenue.csv,NS|2023|미국,external_revenue,540843726,540843726,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0410,nongshim_region_revenue.csv,NS|2023|캐나다,external_revenue,94354838,94354838,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0411,nongshim_region_revenue.csv,NS|2023|일본,external_revenue,95294699,95294699,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0412,nongshim_region_revenue.csv,NS|2023|호주,external_revenue,49023612,49023612,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0413,nongshim_region_revenue.csv,NS|2023|베트남,external_revenue,11310057,11310057,ns2023,ns2023:t89:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0414,nongshim_region_revenue.csv,NS|2024|한국,external_revenue,2479238495,2479238495,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0415,nongshim_region_revenue.csv,NS|2024|중국,external_revenue,160517131,160517131,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0416,nongshim_region_revenue.csv,NS|2024|미국,external_revenue,533129994,533129994,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0417,nongshim_region_revenue.csv,NS|2024|캐나다,external_revenue,90068316,90068316,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0418,nongshim_region_revenue.csv,NS|2024|일본,external_revenue,106389367,106389367,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0419,nongshim_region_revenue.csv,NS|2024|호주,external_revenue,56016583,56016583,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0420,nongshim_region_revenue.csv,NS|2024|베트남,external_revenue,13370972,13370972,ns2024,ns2024:t90:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0421,nongshim_region_revenue.csv,NS|2025|한국,external_revenue,2454150165,2454150165,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0422,nongshim_region_revenue.csv,NS|2025|중국,external_revenue,172743025,172743025,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0423,nongshim_region_revenue.csv,NS|2025|미국,external_revenue,524337835,524337835,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0424,nongshim_region_revenue.csv,NS|2025|캐나다,external_revenue,87634899,87634899,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0425,nongshim_region_revenue.csv,NS|2025|일본,external_revenue,134981432,134981432,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0426,nongshim_region_revenue.csv,NS|2025|호주,external_revenue,63296524,63296524,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0427,nongshim_region_revenue.csv,NS|2025|베트남,external_revenue,15882482,15882482,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음
+B0428,nongshim_region_revenue.csv,NS|2025|유럽,external_revenue,61289138,61289138,ns2025,ns2025:t94:r2,사업보고서 연결 사업지역 표의 외부고객 수익 행 추출,공시 원문 신규 추출,2026-11-03,전체 이력 미완료,해당 없음

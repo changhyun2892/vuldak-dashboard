@@ -1,7 +1,18 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><link rel="stylesheet" href="./styles.css"></head><body>
-<title>불닭 경영분석 대시보드</title>
-
-<div id="root"></div>
-<script type="module" src="./app.js"></script>
-
-</body></html>
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>불닭 경영분석</title>
+<meta name="description" content="삼양식품(불닭)·농심 2023~2025 연결 재무, 사업·해외, 생산, 공급사슬, 검색 관심도 대시보드. 정적 CSV 기반 수업용 분석.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d4262c'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'%3E%EB%B6%88%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<div id="app" aria-busy="true"><div class="boot">데이터를 불러오는 중…</div></div>
+<noscript>이 대시보드는 JavaScript가 필요합니다.</noscript>
+<!-- d3는 인터넷 없이도 시연할 수 있도록 assets/vendor에 함께 넣었습니다 (d3 v7.9.0, ISC 라이선스) -->
+<script src="assets/vendor/d3.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

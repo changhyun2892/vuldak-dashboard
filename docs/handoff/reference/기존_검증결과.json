@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-10-27",
+  "checks": [
+    "2022~2025 손익 산식과 재무상태표 자산=부채+자본 일치",
+    "12분기 4개 계정의 분기합=연간 확정실적 일치",
+    "검색 108행; 지역별 36개월; 최고점 3개 검증",
+    "해외법인 14개 실적+설립전 1행; 공장 시간가동률 16개 값"
+  ],
+  "row_counts": {
+    "brand_sales.csv": 3,
+    "calculated_metrics.csv": 3,
+    "events.csv": 17,
+    "financials.csv": 56,
+    "foreign_entities.csv": 15,
+    "foreign_entities_local_currency.csv": 5,
+    "price_snapshot.csv": 2,
+    "production.csv": 18,
+    "quarterly_financials.csv": 12,
+    "research_status.csv": 10,
+    "search_monthly.csv": 108,
+    "segments.csv": 6,
+    "source_index.csv": 20
+  },
+  "limitations": "산식·행수 검증은 공시 최신정정 여부 또는 인과관계 입증을 의미하지 않음"
+}

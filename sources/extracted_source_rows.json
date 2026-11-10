@@ -1,0 +1,1772 @@
+[
+  {
+    "evidence_id": "sy2023:t412:r1",
+    "source_id": "sy2023",
+    "table_index_zero_based": 412,
+    "row_index_zero_based": 1,
+    "cells": [
+      "매출액",
+      "1,192,914,607,980",
+      "909,036,571,591",
+      "642,030,314,159"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t412:r2",
+    "source_id": "sy2023",
+    "table_index_zero_based": 412,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출원가",
+      "776,182,562,968",
+      "657,814,038,196",
+      "471,392,423,994"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t412:r4",
+    "source_id": "sy2023",
+    "table_index_zero_based": 412,
+    "row_index_zero_based": 4,
+    "cells": [
+      "판매비와관리비",
+      "269,217,954,233",
+      "160,846,857,257",
+      "105,274,476,194"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t412:r5",
+    "source_id": "sy2023",
+    "table_index_zero_based": 412,
+    "row_index_zero_based": 5,
+    "cells": [
+      "영업이익",
+      "147,514,090,779",
+      "90,375,676,138",
+      "65,363,413,971"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r7",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 7,
+    "cells": [
+      "유동재고자산",
+      "142,175,085,782",
+      "110,337,462,516",
+      "44,775,562,069"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r5",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 5,
+    "cells": [
+      "매출채권",
+      "79,845,300,784",
+      "83,610,717,020",
+      "53,199,948,005"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r2",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 2,
+    "cells": [
+      "유동자산",
+      "492,073,951,173",
+      "348,640,276,501",
+      "278,912,194,653"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r25",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 25,
+    "cells": [
+      "유동부채",
+      "402,005,197,765",
+      "225,328,097,793",
+      "182,419,094,567"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r23",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 23,
+    "cells": [
+      "자산총계",
+      "1,170,302,770,895",
+      "924,929,490,964",
+      "753,080,320,659"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r39",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 39,
+    "cells": [
+      "부채총계",
+      "593,512,454,782",
+      "470,165,749,462",
+      "357,388,870,699"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t410:r47",
+    "source_id": "sy2023",
+    "table_index_zero_based": 410,
+    "row_index_zero_based": 47,
+    "cells": [
+      "자본총계",
+      "576,790,316,113",
+      "454,763,741,502",
+      "395,691,449,960"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t416:r1",
+    "source_id": "sy2023",
+    "table_index_zero_based": 416,
+    "row_index_zero_based": 1,
+    "cells": [
+      "영업활동현금흐름",
+      "168,099,691,095",
+      "47,787,143,112",
+      "58,357,507,370"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t416:r6",
+    "source_id": "sy2023",
+    "table_index_zero_based": 416,
+    "row_index_zero_based": 6,
+    "cells": [
+      "유형자산의 취득",
+      "(44,996,342,023)",
+      "(86,894,413,646)",
+      "(139,701,002,721)"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t416:r3",
+    "source_id": "sy2023",
+    "table_index_zero_based": 416,
+    "row_index_zero_based": 3,
+    "cells": [
+      "법인세의 납부",
+      "(28,031,960,908)",
+      "(17,718,535,671)",
+      "(21,282,703,547)"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t97:r1",
+    "source_id": "ns2023",
+    "table_index_zero_based": 97,
+    "row_index_zero_based": 1,
+    "cells": [
+      "매출액",
+      "3,410,559,367,259",
+      "3,129,065,208,087",
+      "2,662,982,988,213"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t97:r4",
+    "source_id": "ns2023",
+    "table_index_zero_based": 97,
+    "row_index_zero_based": 4,
+    "cells": [
+      "매출원가",
+      "2,375,319,699,349",
+      "2,229,502,633,084",
+      "1,844,870,906,955"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t97:r6",
+    "source_id": "ns2023",
+    "table_index_zero_based": 97,
+    "row_index_zero_based": 6,
+    "cells": [
+      "판매비와관리비",
+      "823,174,924,455",
+      "787,389,718,287",
+      "711,972,360,363"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t97:r7",
+    "source_id": "ns2023",
+    "table_index_zero_based": 97,
+    "row_index_zero_based": 7,
+    "cells": [
+      "영업이익(손실)",
+      "212,064,743,455",
+      "112,172,856,716",
+      "106,139,720,895"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r8",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 8,
+    "cells": [
+      "재고자산",
+      "318,234,266,905",
+      "296,880,553,453",
+      "256,007,782,597"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r6",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 6,
+    "cells": [
+      "매출채권",
+      "292,382,383,365",
+      "279,227,304,177",
+      "224,004,447,811"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r2",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 2,
+    "cells": [
+      "유동자산",
+      "1,419,816,691,135",
+      "1,208,524,614,820",
+      "1,088,691,509,295"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r26",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 26,
+    "cells": [
+      "유동부채",
+      "696,493,722,736",
+      "616,485,543,701",
+      "537,328,993,494"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r24",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 24,
+    "cells": [
+      "자산총계",
+      "3,234,751,426,458",
+      "3,034,718,535,547",
+      "2,899,907,793,800"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r44",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 44,
+    "cells": [
+      "부채총계",
+      "793,949,665,281",
+      "719,378,356,883",
+      "699,140,508,273"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t95:r52",
+    "source_id": "ns2023",
+    "table_index_zero_based": 95,
+    "row_index_zero_based": 52,
+    "cells": [
+      "자본총계",
+      "2,440,801,761,177",
+      "2,315,340,178,664",
+      "2,200,767,285,527"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t103:r1",
+    "source_id": "ns2023",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 1,
+    "cells": [
+      "영업활동으로 인한 현금흐름",
+      "327,223,955,699",
+      "159,650,440,148",
+      "162,684,342,404"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t103:r24",
+    "source_id": "ns2023",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 24,
+    "cells": [
+      "유형자산의 취득",
+      "(108,011,202,694)",
+      "(92,861,152,156)",
+      "(195,076,612,541)"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t103:r8",
+    "source_id": "ns2023",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 8,
+    "cells": [
+      "법인세의 납부",
+      "(49,578,033,296)",
+      "(37,970,038,226)",
+      "(52,200,445,705)"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t102:r1",
+    "source_id": "ns2025",
+    "table_index_zero_based": 102,
+    "row_index_zero_based": 1,
+    "cells": [
+      "매출액",
+      "3,514,315,500,097",
+      "3,438,730,857,998",
+      "3,410,559,367,259"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t102:r4",
+    "source_id": "ns2025",
+    "table_index_zero_based": 102,
+    "row_index_zero_based": 4,
+    "cells": [
+      "매출원가",
+      "2,495,381,082,806",
+      "2,473,188,669,478",
+      "2,375,319,699,349"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t102:r6",
+    "source_id": "ns2025",
+    "table_index_zero_based": 102,
+    "row_index_zero_based": 6,
+    "cells": [
+      "판매비와관리비",
+      "835,001,385,094",
+      "802,468,256,590",
+      "823,174,924,455"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t102:r7",
+    "source_id": "ns2025",
+    "table_index_zero_based": 102,
+    "row_index_zero_based": 7,
+    "cells": [
+      "영업이익(손실)",
+      "183,933,032,197",
+      "163,073,931,930",
+      "212,064,743,455"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r8",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 8,
+    "cells": [
+      "재고자산",
+      "353,314,247,728",
+      "323,189,566,831",
+      "318,234,266,905"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r6",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 6,
+    "cells": [
+      "매출채권",
+      "322,700,751,452",
+      "308,271,886,119",
+      "292,382,383,365"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r2",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 2,
+    "cells": [
+      "유동자산",
+      "1,960,196,420,067",
+      "1,743,739,590,775",
+      "1,419,816,691,135"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r26",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 26,
+    "cells": [
+      "유동부채",
+      "833,082,759,238",
+      "678,174,791,731",
+      "696,493,722,736"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r24",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 24,
+    "cells": [
+      "자산총계",
+      "3,822,122,467,403",
+      "3,597,461,570,702",
+      "3,234,751,426,458"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r46",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 46,
+    "cells": [
+      "부채총계",
+      "990,936,608,000",
+      "924,886,441,245",
+      "793,949,665,281"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t100:r54",
+    "source_id": "ns2025",
+    "table_index_zero_based": 100,
+    "row_index_zero_based": 54,
+    "cells": [
+      "자본총계",
+      "2,831,185,859,403",
+      "2,672,575,129,457",
+      "2,440,801,761,177"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t108:r1",
+    "source_id": "ns2025",
+    "table_index_zero_based": 108,
+    "row_index_zero_based": 1,
+    "cells": [
+      "영업활동으로 인한 현금흐름",
+      "268,700,833,743",
+      "272,544,275,630",
+      "327,223,955,699"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t108:r21",
+    "source_id": "ns2025",
+    "table_index_zero_based": 108,
+    "row_index_zero_based": 21,
+    "cells": [
+      "유형자산의 취득",
+      "(67,592,589,702)",
+      "(122,873,686,381)",
+      "(108,011,202,694)"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t108:r8",
+    "source_id": "ns2025",
+    "table_index_zero_based": 108,
+    "row_index_zero_based": 8,
+    "cells": [
+      "법인세의 납부",
+      "(52,923,506,840)",
+      "(63,530,184,459)",
+      "(49,578,033,296)"
+    ]
+  },
+  {
+    "evidence_id": "sy2023h1:t103:r2",
+    "source_id": "sy2023h1",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "285,360,760,301",
+      "530,922,625,222",
+      "255,327,674,055",
+      "457,496,347,038"
+    ]
+  },
+  {
+    "evidence_id": "sy2023q3:t101:r2",
+    "source_id": "sy2023q3",
+    "table_index_zero_based": 101,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "335,246,630,561",
+      "866,169,255,783",
+      "211,532,850,123",
+      "669,029,197,161"
+    ]
+  },
+  {
+    "evidence_id": "sy2023h1:t103:r3",
+    "source_id": "sy2023h1",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 3,
+    "cells": [
+      "매출원가",
+      "184,561,988,512",
+      "359,744,010,277",
+      "190,932,121,386",
+      "335,464,415,522"
+    ]
+  },
+  {
+    "evidence_id": "sy2023q3:t101:r3",
+    "source_id": "sy2023q3",
+    "table_index_zero_based": 101,
+    "row_index_zero_based": 3,
+    "cells": [
+      "매출원가",
+      "218,085,756,624",
+      "577,829,766,901",
+      "152,038,169,353",
+      "487,502,584,875"
+    ]
+  },
+  {
+    "evidence_id": "sy2023h1:t103:r5",
+    "source_id": "sy2023h1",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 5,
+    "cells": [
+      "판매비와관리비",
+      "56,748,806,444",
+      "103,266,190,760",
+      "37,061,619,836",
+      "70,193,214,789"
+    ]
+  },
+  {
+    "evidence_id": "sy2023q3:t101:r5",
+    "source_id": "sy2023q3",
+    "table_index_zero_based": 101,
+    "row_index_zero_based": 5,
+    "cells": [
+      "판매비와관리비",
+      "73,730,212,496",
+      "176,996,403,256",
+      "40,163,689,446",
+      "110,356,904,235"
+    ]
+  },
+  {
+    "evidence_id": "sy2023h1:t103:r6",
+    "source_id": "sy2023h1",
+    "table_index_zero_based": 103,
+    "row_index_zero_based": 6,
+    "cells": [
+      "영업이익",
+      "44,049,965,345",
+      "67,912,424,185",
+      "27,333,932,833",
+      "51,838,716,727"
+    ]
+  },
+  {
+    "evidence_id": "sy2023q3:t101:r6",
+    "source_id": "sy2023q3",
+    "table_index_zero_based": 101,
+    "row_index_zero_based": 6,
+    "cells": [
+      "영업이익",
+      "43,430,661,441",
+      "111,343,085,626",
+      "19,330,991,324",
+      "71,169,708,051"
+    ]
+  },
+  {
+    "evidence_id": "sy2025h1:t110:r2",
+    "source_id": "sy2025h1",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액 (주5,25)",
+      "553,077,609,232",
+      "1,082,090,816,109",
+      "424,443,489,341",
+      "810,192,259,976"
+    ]
+  },
+  {
+    "evidence_id": "sy2025q3:t104:r2",
+    "source_id": "sy2025q3",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액 (주5,25)",
+      "632,015,696,590",
+      "1,714,106,512,699",
+      "438,969,526,997",
+      "1,249,161,786,973"
+    ]
+  },
+  {
+    "evidence_id": "sy2025h1:t110:r3",
+    "source_id": "sy2025h1",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 3,
+    "cells": [
+      "매출원가 (주23,25)",
+      "(297,620,126,443)",
+      "(581,697,361,322)",
+      "(232,030,030,919)",
+      "(454,239,400,426)"
+    ]
+  },
+  {
+    "evidence_id": "sy2025q3:t104:r3",
+    "source_id": "sy2025q3",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 3,
+    "cells": [
+      "매출원가 (주23,25)",
+      "(370,781,649,361)",
+      "(952,479,010,683)",
+      "(247,822,080,368)",
+      "(702,061,480,794)"
+    ]
+  },
+  {
+    "evidence_id": "sy2025h1:t110:r5",
+    "source_id": "sy2025h1",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 5,
+    "cells": [
+      "판매비와관리비 (주22,23)",
+      "(135,369,527,971)",
+      "(246,317,045,608)",
+      "(102,945,734,785)",
+      "(186,365,426,305)"
+    ]
+  },
+  {
+    "evidence_id": "sy2025q3:t104:r5",
+    "source_id": "sy2025q3",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 5,
+    "cells": [
+      "판매비와관리비 (주22,23)",
+      "(130,334,312,768)",
+      "(376,651,358,376)",
+      "(103,833,375,083)",
+      "(290,198,801,388)"
+    ]
+  },
+  {
+    "evidence_id": "sy2025h1:t110:r6",
+    "source_id": "sy2025h1",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 6,
+    "cells": [
+      "영업이익 (주5)",
+      "120,087,954,818",
+      "254,076,409,179",
+      "89,467,723,637",
+      "169,587,433,245"
+    ]
+  },
+  {
+    "evidence_id": "sy2025q3:t104:r6",
+    "source_id": "sy2025q3",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 6,
+    "cells": [
+      "영업이익 (주5)",
+      "130,899,734,461",
+      "384,976,143,640",
+      "87,314,071,546",
+      "256,901,504,791"
+    ]
+  },
+  {
+    "evidence_id": "ns2024h1:t94:r2",
+    "source_id": "ns2024h1",
+    "table_index_zero_based": 94,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "860,699,099,208",
+      "1,733,234,179,918",
+      "837,521,658,064",
+      "1,697,907,967,788"
+    ]
+  },
+  {
+    "evidence_id": "ns2023q3:t91:r2",
+    "source_id": "ns2023q3",
+    "table_index_zero_based": 91,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "855,913,210,848",
+      "2,553,821,178,636",
+      "813,007,870,892",
+      "2,305,476,187,744"
+    ]
+  },
+  {
+    "evidence_id": "ns2024h1:t94:r5",
+    "source_id": "ns2024h1",
+    "table_index_zero_based": 94,
+    "row_index_zero_based": 5,
+    "cells": [
+      "매출원가",
+      "613,452,108,743",
+      "1,233,187,450,039",
+      "569,355,603,192",
+      "1,165,708,196,541"
+    ]
+  },
+  {
+    "evidence_id": "ns2023q3:t91:r5",
+    "source_id": "ns2023q3",
+    "table_index_zero_based": 91,
+    "row_index_zero_based": 5,
+    "cells": [
+      "매출원가",
+      "593,774,319,689",
+      "1,759,482,516,230",
+      "591,160,491,506",
+      "1,665,625,536,182"
+    ]
+  },
+  {
+    "evidence_id": "ns2024h1:t94:r7",
+    "source_id": "ns2024h1",
+    "table_index_zero_based": 94,
+    "row_index_zero_based": 7,
+    "cells": [
+      "판매비와관리비",
+      "203,568,796,078",
+      "394,986,054,693",
+      "214,467,502,295",
+      "414,747,815,287"
+    ]
+  },
+  {
+    "evidence_id": "ns2023q3:t91:r7",
+    "source_id": "ns2023q3",
+    "table_index_zero_based": 91,
+    "row_index_zero_based": 7,
+    "cells": [
+      "판매비와관리비",
+      "206,463,980,243",
+      "621,211,795,530",
+      "194,547,122,410",
+      "573,974,889,957"
+    ]
+  },
+  {
+    "evidence_id": "ns2024h1:t94:r8",
+    "source_id": "ns2024h1",
+    "table_index_zero_based": 94,
+    "row_index_zero_based": 8,
+    "cells": [
+      "영업이익",
+      "43,678,194,387",
+      "105,060,675,186",
+      "53,698,552,577",
+      "117,451,955,960"
+    ]
+  },
+  {
+    "evidence_id": "ns2023q3:t91:r8",
+    "source_id": "ns2023q3",
+    "table_index_zero_based": 91,
+    "row_index_zero_based": 8,
+    "cells": [
+      "영업이익",
+      "55,674,910,916",
+      "173,126,866,876",
+      "27,300,256,976",
+      "65,875,761,605"
+    ]
+  },
+  {
+    "evidence_id": "ns2025h1:t88:r2",
+    "source_id": "ns2025h1",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "867,725,185,755",
+      "1,760,761,505,231",
+      "860,699,099,208",
+      "1,733,234,179,918"
+    ]
+  },
+  {
+    "evidence_id": "ns2025q3:t88:r2",
+    "source_id": "ns2025q3",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 2,
+    "cells": [
+      "매출액",
+      "871,156,324,854",
+      "2,631,917,830,085",
+      "850,390,703,996",
+      "2,583,624,883,914"
+    ]
+  },
+  {
+    "evidence_id": "ns2025h1:t88:r5",
+    "source_id": "ns2025h1",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 5,
+    "cells": [
+      "매출원가",
+      "623,574,391,019",
+      "1,263,502,344,440",
+      "613,452,108,743",
+      "1,233,187,450,039"
+    ]
+  },
+  {
+    "evidence_id": "ns2025q3:t88:r5",
+    "source_id": "ns2025q3",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 5,
+    "cells": [
+      "매출원가",
+      "611,107,940,188",
+      "1,874,610,284,628",
+      "613,524,680,004",
+      "1,846,712,130,043"
+    ]
+  },
+  {
+    "evidence_id": "ns2025h1:t88:r7",
+    "source_id": "ns2025h1",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 7,
+    "cells": [
+      "판매비와관리비",
+      "203,998,566,083",
+      "401,055,164,763",
+      "203,568,796,078",
+      "394,986,054,693"
+    ]
+  },
+  {
+    "evidence_id": "ns2025q3:t88:r7",
+    "source_id": "ns2025q3",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 7,
+    "cells": [
+      "판매비와관리비",
+      "205,672,834,474",
+      "606,727,999,237",
+      "199,263,758,001",
+      "594,249,812,694"
+    ]
+  },
+  {
+    "evidence_id": "ns2025h1:t88:r8",
+    "source_id": "ns2025h1",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 8,
+    "cells": [
+      "영업이익",
+      "40,152,228,653",
+      "96,203,996,028",
+      "43,678,194,387",
+      "105,060,675,186"
+    ]
+  },
+  {
+    "evidence_id": "ns2025q3:t88:r8",
+    "source_id": "ns2025q3",
+    "table_index_zero_based": 88,
+    "row_index_zero_based": 8,
+    "cells": [
+      "영업이익",
+      "54,375,550,192",
+      "150,579,546,220",
+      "37,602,265,991",
+      "142,662,941,177"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t357:r1",
+    "source_id": "sy2023",
+    "table_index_zero_based": 357,
+    "row_index_zero_based": 1,
+    "cells": [
+      "원주공장(면류)",
+      "5,040",
+      "3,832",
+      "76.03"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t46:r1",
+    "source_id": "sy2024",
+    "table_index_zero_based": 46,
+    "row_index_zero_based": 1,
+    "cells": [
+      "원주공장(면류)",
+      "5,040",
+      "3,669",
+      "72.79"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t357:r3",
+    "source_id": "sy2023",
+    "table_index_zero_based": 357,
+    "row_index_zero_based": 3,
+    "cells": [
+      "익산공장(면류)",
+      "5,040",
+      "4,093",
+      "81.22"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t46:r3",
+    "source_id": "sy2024",
+    "table_index_zero_based": 46,
+    "row_index_zero_based": 3,
+    "cells": [
+      "익산공장(면류)",
+      "5,040",
+      "4,823",
+      "95.70"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t357:r5",
+    "source_id": "sy2023",
+    "table_index_zero_based": 357,
+    "row_index_zero_based": 5,
+    "cells": [
+      "밀양공장(면류)",
+      "5,040",
+      "3,073",
+      "60.96"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t46:r5",
+    "source_id": "sy2024",
+    "table_index_zero_based": 46,
+    "row_index_zero_based": 5,
+    "cells": [
+      "밀양공장(면류)",
+      "5,040",
+      "4,175",
+      "82.83"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t357:r2",
+    "source_id": "sy2023",
+    "table_index_zero_based": 357,
+    "row_index_zero_based": 2,
+    "cells": [
+      "원주공장(스낵)",
+      "2,520",
+      "1,570",
+      "62.29"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t46:r2",
+    "source_id": "sy2024",
+    "table_index_zero_based": 46,
+    "row_index_zero_based": 2,
+    "cells": [
+      "원주공장(스낵)",
+      "2,520",
+      "1,440",
+      "57.15"
+    ]
+  },
+  {
+    "evidence_id": "sy2023:t357:r4",
+    "source_id": "sy2023",
+    "table_index_zero_based": 357,
+    "row_index_zero_based": 4,
+    "cells": [
+      "원주공장(소스조미소재류)",
+      "10,080",
+      "5,619",
+      "55.74"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t46:r4",
+    "source_id": "sy2024",
+    "table_index_zero_based": 46,
+    "row_index_zero_based": 4,
+    "cells": [
+      "원주공장(소스조미소재류)",
+      "10,080",
+      "5,635",
+      "55.90"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t112:r6",
+    "source_id": "sy2024",
+    "table_index_zero_based": 112,
+    "row_index_zero_based": 6,
+    "cells": [
+      "SAMYANG JAPAN, INC.",
+      "6,081,841",
+      "4,458,846",
+      "23,612,845",
+      "747,255",
+      "1,055,936"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t112:r7",
+    "source_id": "sy2024",
+    "table_index_zero_based": 112,
+    "row_index_zero_based": 7,
+    "cells": [
+      "SAMYANG AMERICA, INC.",
+      "62,063,991",
+      "55,638,286",
+      "159,850,126",
+      "4,139,336",
+      "3,977,754"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t112:r8",
+    "source_id": "sy2024",
+    "table_index_zero_based": 112,
+    "row_index_zero_based": 8,
+    "cells": [
+      "SAMYANG FOODS SHANGHAI CO.,LTD.",
+      "88,326,711",
+      "77,876,211",
+      "221,327,352",
+      "6,006,410",
+      "6,799,071"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t112:r10",
+    "source_id": "sy2024",
+    "table_index_zero_based": 112,
+    "row_index_zero_based": 10,
+    "cells": [
+      "PT.SAMYANG FOODS INDONESIA",
+      "3,694,101",
+      "644,646",
+      "498,578",
+      "(301,943)",
+      "14,657"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t110:r6",
+    "source_id": "sy2024",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 6,
+    "cells": [
+      "SAMYANG JAPAN, INC.",
+      "8,798,397",
+      "4,520,230",
+      "26,314,092",
+      "794,140",
+      "840,815"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t110:r7",
+    "source_id": "sy2024",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 7,
+    "cells": [
+      "SAMYANG AMERICA, INC.",
+      "120,486,509",
+      "110,081,341",
+      "378,562,356",
+      "2,857,348",
+      "3,130,211"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t110:r8",
+    "source_id": "sy2024",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 8,
+    "cells": [
+      "SAMYANG FOODS SHANGHAI CO.,LTD.",
+      "87,066,382",
+      "68,039,146",
+      "411,034,483",
+      "6,935,741",
+      "7,488,409"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t110:r10",
+    "source_id": "sy2024",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 10,
+    "cells": [
+      "PT.SAMYANG FOODS INDONESIA",
+      "10,389,469",
+      "6,566,277",
+      "13,515,127",
+      "472,650",
+      "492,762"
+    ]
+  },
+  {
+    "evidence_id": "sy2024:t110:r13",
+    "source_id": "sy2024",
+    "table_index_zero_based": 110,
+    "row_index_zero_based": 13,
+    "cells": [
+      "SAMYANG FOODS EUROPE B.V.(*2)",
+      "25,454,812",
+      "21,927,622",
+      "32,622,757",
+      "453,236",
+      "469,730"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t67:r1",
+    "source_id": "ns2025",
+    "table_index_zero_based": 67,
+    "row_index_zero_based": 1,
+    "cells": [
+      "식품제조및 판 매 등",
+      "제품상품기타",
+      "라면",
+      "내 수",
+      "2,762,970",
+      "2,567,309",
+      "2,481,594"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t67:r4",
+    "source_id": "ns2025",
+    "table_index_zero_based": 67,
+    "row_index_zero_based": 4,
+    "cells": [
+      "스낵",
+      "내 수",
+      "457,081",
+      "463,808",
+      "477,752"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t67:r7",
+    "source_id": "ns2025",
+    "table_index_zero_based": 67,
+    "row_index_zero_based": 7,
+    "cells": [
+      "기타",
+      "내 수",
+      "523,665",
+      "562,598",
+      "556,122"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t67:r10",
+    "source_id": "ns2025",
+    "table_index_zero_based": 67,
+    "row_index_zero_based": 10,
+    "cells": [
+      "매출 에누리등",
+      "내 수",
+      "(567,779)",
+      "(499,163)",
+      "(376,261)"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t53:r1",
+    "source_id": "ns2023",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 1,
+    "cells": [
+      "라면",
+      "244,918",
+      "161,946",
+      "66.1%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t53:r2",
+    "source_id": "ns2023",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 2,
+    "cells": [
+      "스낵",
+      "264,290",
+      "155,739",
+      "58.9%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t53:r3",
+    "source_id": "ns2023",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 3,
+    "cells": [
+      "음료",
+      "10,374",
+      "6,067",
+      "58.5%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t53:r4",
+    "source_id": "ns2023",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 4,
+    "cells": [
+      "유지",
+      "8,592",
+      "8,083",
+      "94.1%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t55:r1",
+    "source_id": "ns2023",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 1,
+    "cells": [
+      "심양농심",
+      "41,328",
+      "11,261",
+      "27.2%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t55:r2",
+    "source_id": "ns2023",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 2,
+    "cells": [
+      "상해농심",
+      "30,996",
+      "14,007",
+      "45.2%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t55:r3",
+    "source_id": "ns2023",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 3,
+    "cells": [
+      "청도농심",
+      "273,000",
+      "110,708",
+      "40.6%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t55:r4",
+    "source_id": "ns2023",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 4,
+    "cells": [
+      "농심아메리카",
+      "50,423",
+      "33,865",
+      "67.2%"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t55:r5",
+    "source_id": "ns2023",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 5,
+    "cells": [
+      "연변농심",
+      "16,974",
+      "7,563",
+      "44.6%"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t53:r1",
+    "source_id": "ns2024",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 1,
+    "cells": [
+      "라면",
+      "239,904",
+      "167,858",
+      "70.0"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t53:r2",
+    "source_id": "ns2024",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 2,
+    "cells": [
+      "스낵",
+      "254,898",
+      "152,884",
+      "60.0"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t53:r3",
+    "source_id": "ns2024",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 3,
+    "cells": [
+      "음료",
+      "9,996",
+      "4,707",
+      "47.1"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t53:r4",
+    "source_id": "ns2024",
+    "table_index_zero_based": 53,
+    "row_index_zero_based": 4,
+    "cells": [
+      "유지",
+      "11,424",
+      "11,175",
+      "97.8"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t55:r1",
+    "source_id": "ns2024",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 1,
+    "cells": [
+      "심양농심",
+      "52,413",
+      "10,831",
+      "20.7"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t55:r2",
+    "source_id": "ns2024",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 2,
+    "cells": [
+      "상해농심",
+      "31,621",
+      "14,614",
+      "45.1"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t55:r3",
+    "source_id": "ns2024",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 3,
+    "cells": [
+      "청도농심",
+      "294,423",
+      "131,694",
+      "44.7"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t55:r4",
+    "source_id": "ns2024",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 4,
+    "cells": [
+      "농심아메리카",
+      "52,425",
+      "31,298",
+      "59.7"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t55:r5",
+    "source_id": "ns2024",
+    "table_index_zero_based": 55,
+    "row_index_zero_based": 5,
+    "cells": [
+      "연변농심",
+      "16,173",
+      "6,957",
+      "43.0"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t58:r1",
+    "source_id": "ns2025",
+    "table_index_zero_based": 58,
+    "row_index_zero_based": 1,
+    "cells": [
+      "라면",
+      "236,880",
+      "171,147",
+      "72.3"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t58:r2",
+    "source_id": "ns2025",
+    "table_index_zero_based": 58,
+    "row_index_zero_based": 2,
+    "cells": [
+      "스낵",
+      "251,685",
+      "157,084",
+      "62.4"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t58:r3",
+    "source_id": "ns2025",
+    "table_index_zero_based": 58,
+    "row_index_zero_based": 3,
+    "cells": [
+      "음료",
+      "9,870",
+      "5,943",
+      "60.2"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t58:r4",
+    "source_id": "ns2025",
+    "table_index_zero_based": 58,
+    "row_index_zero_based": 4,
+    "cells": [
+      "유지",
+      "11,280",
+      "11,146",
+      "98.8"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t60:r1",
+    "source_id": "ns2025",
+    "table_index_zero_based": 60,
+    "row_index_zero_based": 1,
+    "cells": [
+      "심양농심",
+      "44,016",
+      "10,741",
+      "24.4"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t60:r2",
+    "source_id": "ns2025",
+    "table_index_zero_based": 60,
+    "row_index_zero_based": 2,
+    "cells": [
+      "상해농심",
+      "30,870",
+      "16,075",
+      "52.1"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t60:r3",
+    "source_id": "ns2025",
+    "table_index_zero_based": 60,
+    "row_index_zero_based": 3,
+    "cells": [
+      "청도농심",
+      "302,560",
+      "121,639",
+      "40.2"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t60:r4",
+    "source_id": "ns2025",
+    "table_index_zero_based": 60,
+    "row_index_zero_based": 4,
+    "cells": [
+      "연변농심",
+      "15,246",
+      "4,994",
+      "32.8"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t60:r5",
+    "source_id": "ns2025",
+    "table_index_zero_based": 60,
+    "row_index_zero_based": 5,
+    "cells": [
+      "농심아메리카",
+      "59,625",
+      "27,586",
+      "46.3"
+    ]
+  },
+  {
+    "evidence_id": "ns2023:t89:r2",
+    "source_id": "ns2023",
+    "table_index_zero_based": 89,
+    "row_index_zero_based": 2,
+    "cells": [
+      "외부고객으로부터의 수익",
+      "2,430,455,647",
+      "189,276,788",
+      "540,843,726",
+      "94,354,838",
+      "95,294,699",
+      "49,023,612",
+      "11,310,057",
+      "3,410,559,367",
+      "-",
+      "3,410,559,367"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t90:r2",
+    "source_id": "ns2024",
+    "table_index_zero_based": 90,
+    "row_index_zero_based": 2,
+    "cells": [
+      "외부고객으로부터의 수익",
+      "2,479,238,495",
+      "160,517,131",
+      "533,129,994",
+      "90,068,316",
+      "106,389,367",
+      "56,016,583",
+      "13,370,972",
+      "3,438,730,858",
+      "-",
+      "3,438,730,858"
+    ]
+  },
+  {
+    "evidence_id": "ns2025:t94:r2",
+    "source_id": "ns2025",
+    "table_index_zero_based": 94,
+    "row_index_zero_based": 2,
+    "cells": [
+      "외부고객으로부터의 수익",
+      "2,454,150,165",
+      "172,743,025",
+      "524,337,835",
+      "87,634,899",
+      "134,981,432",
+      "63,296,524",
+      "15,882,482",
+      "61,289,138",
+      "3,514,315,500",
+      "-",
+      "3,514,315,500"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t98:r1",
+    "source_id": "ns2024",
+    "table_index_zero_based": 98,
+    "row_index_zero_based": 1,
+    "cells": [
+      "매출액",
+      "3,438,730,857,998",
+      "3,410,559,367,259",
+      "3,129,065,208,087"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t98:r4",
+    "source_id": "ns2024",
+    "table_index_zero_based": 98,
+    "row_index_zero_based": 4,
+    "cells": [
+      "매출원가",
+      "2,473,188,669,478",
+      "2,375,319,699,349",
+      "2,229,502,633,084"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t98:r6",
+    "source_id": "ns2024",
+    "table_index_zero_based": 98,
+    "row_index_zero_based": 6,
+    "cells": [
+      "판매비와관리비",
+      "802,468,256,590",
+      "823,174,924,455",
+      "787,389,718,287"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t98:r7",
+    "source_id": "ns2024",
+    "table_index_zero_based": 98,
+    "row_index_zero_based": 7,
+    "cells": [
+      "영업이익(손실)",
+      "163,073,931,930",
+      "212,064,743,455",
+      "112,172,856,716"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r8",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 8,
+    "cells": [
+      "재고자산",
+      "323,189,566,831",
+      "318,234,266,905",
+      "296,880,553,453"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r6",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 6,
+    "cells": [
+      "매출채권",
+      "308,271,886,119",
+      "292,382,383,365",
+      "279,227,304,177"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r2",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 2,
+    "cells": [
+      "유동자산",
+      "1,743,739,590,775",
+      "1,419,816,691,135",
+      "1,208,524,614,820"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r26",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 26,
+    "cells": [
+      "유동부채",
+      "678,174,791,731",
+      "696,493,722,736",
+      "616,485,543,701"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r24",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 24,
+    "cells": [
+      "자산총계",
+      "3,597,461,570,702",
+      "3,234,751,426,458",
+      "3,034,718,535,547"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r45",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 45,
+    "cells": [
+      "부채총계",
+      "924,886,441,245",
+      "793,949,665,281",
+      "719,378,356,883"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t96:r53",
+    "source_id": "ns2024",
+    "table_index_zero_based": 96,
+    "row_index_zero_based": 53,
+    "cells": [
+      "자본총계",
+      "2,672,575,129,457",
+      "2,440,801,761,177",
+      "2,315,340,178,664"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t104:r1",
+    "source_id": "ns2024",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 1,
+    "cells": [
+      "영업활동으로 인한 현금흐름",
+      "272,544,275,630",
+      "327,223,955,699",
+      "159,650,440,148"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t104:r24",
+    "source_id": "ns2024",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 24,
+    "cells": [
+      "유형자산의 취득",
+      "(122,873,686,381)",
+      "(108,011,202,694)",
+      "(92,861,152,156)"
+    ]
+  },
+  {
+    "evidence_id": "ns2024:t104:r8",
+    "source_id": "ns2024",
+    "table_index_zero_based": 104,
+    "row_index_zero_based": 8,
+    "cells": [
+      "법인세의 납부",
+      "(63,530,184,459)",
+      "(49,578,033,296)",
+      "(37,970,038,226)"
+    ]
+  }
+]
