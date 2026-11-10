@@ -184,6 +184,7 @@ const PAGES = [
   { id: 'supply', label: '공급사슬', desc: '원재료 → 매입처 → 공장 → 판매경로 (연결 물량은 미공개)', icon: 'M4 6h4v4H4zM16 6h4v4h-4zM10 14h4v4h-4zM8 8h8M6 10v2a2 2 0 0 0 2 2h2m8-4v2a2 2 0 0 1-2 2h-2' },
   { id: 'search', label: '검색 관심도', desc: '플랫폼별 월간 상대지수 (판매량 아님)', icon: 'M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4-4' },
   { id: 'timeline', label: '사건 연표', desc: '공시·공식 발표·회사 발표 인용 보도 (날짜 정밀도 유지)', icon: 'M12 7v5l3 2M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Z' },
+  { id: 'stock', label: '주가 × 불닭', desc: '삼양식품 일별 주가와 불닭 사건·실적 공시 · 매일 자동 갱신 (상관 관찰이며 인과 아님)', icon: 'M3 17l5-5 4 3 8-8M15 7h5v5' },
   { id: 'dart', label: 'DART 자동 업데이트', desc: '삼양식품 사업·반기·분기보고서를 평일마다 확인해 자동 반영 · 원문 대조 전 값은 따로 표시', icon: 'M12 3v12m0 0-4-4m4 4 4-4M4 17v3h16v-3' },
   { id: 'lens', label: '5가지 관점', desc: '관찰값 / 확인할 질문 / 한계 — 등급·임계치를 매기지 않음', icon: 'M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Zm10-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z' },
   { id: 'board', label: '분석 보드', desc: '근거 카드를 끌어 분류 (삼양식품 근거)', icon: 'M4 4h4v16H4zM10 4h4v10h-4zM16 4h4v13h-4z' },
@@ -200,6 +201,7 @@ const FILTERS = {
   supply: { period: false, market: null, company: 'SY', scope: '연도 → 원재료 가격·공장 값 · 판매경로·매입처는 2025 보고서 기준' },
   search: { period: false, market: 'region', company: 'SY', scope: '연도 → 강조 구간 · 시장 → 검색 지역(플랫폼)' },
   timeline: { period: false, market: null, company: 'SY', scope: '연도 → 해당 연도 사건 강조' },
+  stock: { period: false, market: null, company: 'SY', scope: '연도 → 주가 차트 강조 구간·연도 수익률 · 삼양식품(003230) 자료만 존재' },
   dart: { period: false, market: null, company: 'SY', scope: '연도 → 표·차트 강조 · 삼양식품(003230) 자료만 수집' },
   lens: { period: false, market: null, company: 'any', scope: '기업 → 관찰값 · 연도 → 기준 연도 (전년 비교 포함)' },
   audit: { period: false, market: null, company: 'any', scope: '기업 → 원장 행 필터 · 데이터셋·상태 선택' },
@@ -1266,9 +1268,7 @@ PAGE.stock = {
     return [
       { id: 'st-price', w: 6, title: '삼양식품 주가와 불닭 사건', sub: '번호 = 사건 연표의 불닭 사건(일·월 단위) · ■ = DART 정기보고서 접수일 · 음영 = 선택 연도', body: (b) => stockChart(b), detail: () => detailStock() },
       { id: 'st-react', w: 6, title: '사건 전후 주가 반응', sub: '사건일 직전 거래일 종가 대비 · 초과 = 삼양 − KOSPI · 관찰값이며 인과 아님', body: (b) => reactTable(b), detail: () => detailStock() },
-      { id: 'st-qtr', w: 4, title: '분기 매출·영업이익과 분기 평균 주가', sub: '막대 = 분기 매출 (진한색 검증값 · 빗금 자동 수집) · 선 = 분기 평균 종가', body: (b) => qtrChart(b), detail: () => detailAuto() },
-      { id: 'st-auto', w: 2, title: '자동 업데이트 상태', sub: 'GitHub Actions 실행 기록 (data/update_log.json)', body: (b) => autoStatus(b), detail: () => detailAuto() },
-      { id: 'st-dartq', w: 3, title: 'DART 자동 수집 분기 실적', sub: '새 보고서가 공시되면 다음 자동 실행 때 추가 · 검증값과 자동 대조', body: (b) => dartTable(b), detail: () => detailAuto() },
+      { id: 'st-qtr', w: 3, title: '분기 매출과 분기 평균 주가', sub: '막대 = 분기 매출 (진한색 검증값 · 빗금 자동 수집) · 선 = 분기 평균 종가', body: (b) => qtrChart(b), detail: () => detailAuto() },
       { id: 'st-earn', w: 3, title: '실적 공시 후 주가 반응', sub: '접수일 종가 대비 (장 마감 후 공시가 많아 다음 거래일부터 계산)', body: (b) => earnTable(b), detail: () => detailAuto() },
     ];
   },
@@ -1445,7 +1445,7 @@ function detailReport(r) {
 function detailAuto() {
   const cc = crossCheck();
   return { title: '자동 업데이트 구조', sub: 'GitHub Actions → data/ CSV 갱신 → 커밋 → Render 자동 재배포',
-    rows: [['실행 시각', '평일 16:40 KST', '.github/workflows/update-data.yml'], ['DART', UPLOG?.dart ? `${UPLOG.dart.status} · ${UPLOG.dart.checked_at}` : '기록 없음', 'scripts/update_dart.py'], ['반영 보고서', `${DR.length}건`, 'data/dart_reports.csv'], ['검증값 대조', cc.length ? `${cc.filter((r) => r.ok).length}/${cc.length} 일치` : '대조할 값 없음']],
+    rows: [['실행 시각', '평일 16:40 KST', '.github/workflows/update-data.yml'], ['주가', UPLOG?.stock ? `${UPLOG.stock.status} · ${UPLOG.stock.checked_at}` : '기록 없음', 'scripts/update_stock.py'], ['DART', UPLOG?.dart ? `${UPLOG.dart.status} · ${UPLOG.dart.checked_at}` : '기록 없음', 'scripts/update_dart.py'], ['반영 보고서', `${DR.length}건`, 'data/dart_reports.csv'], ['검증값 대조', cc.length ? `${cc.filter((r) => r.ok).length}/${cc.length} 일치` : '대조할 값 없음']],
     facts: ['새 정기보고서가 DART에 접수되면 다음 자동 실행에서 감지해 분기 실적을 추가합니다. 정정보고서는 같은 기간을 최신 값으로 교체합니다.', '기존에 원문 대조한 financials.csv·quarterly_financials.csv는 자동으로 바뀌지 않습니다. 자동 수집값은 별도 파일에 저장하고 이 화면에서 대조 결과를 보여줍니다.'],
     limits: ['DART 재무 API는 공시 직후 반영이 늦을 수 있어, 접수 후 14일 동안 매일 다시 시도합니다.', '기존 화면(종합 현황 등)의 2023~2025 수치는 원문 대조값이라 자동으로 바뀌지 않습니다.', 'API 키는 GitHub Secrets(DART_API_KEY)에만 저장되며 사이트 코드에 들어가지 않습니다.'], sources: [DART_SRC] };
 }
@@ -1722,7 +1722,7 @@ function render() {
   page.append(h('div', { class: 'edit-banner' }, '편집 모드 — 카드를 끌어 순서를 바꾸세요. 이 모드에서는 차트 클릭이 꺼집니다.', h('button', { onclick: () => { store.set('order:' + S.page, null); render(); } }, '기본 배치로'), h('button', { onclick: () => { S.edit = false; render(); } }, '완료')));
   const F = FILTERS[S.page];
   if (F.company === 'SY' && S.company !== 'SY' && S.page !== 'board') {
-    const what = { dart: 'DART 자동 수집 자료', search: '검색 관심도(Google Trends·네이버)', supply: '원재료 단가·매입처·판매경로', timeline: '사건 연표' }[S.page] || '이 화면의 자료';
+    const what = { stock: '주가 자료', dart: 'DART 자동 수집 자료', search: '검색 관심도(Google Trends·네이버)', supply: '원재료 단가·매입처·판매경로', timeline: '사건 연표' }[S.page] || '이 화면의 자료';
     page.querySelector('.edit-banner').remove();
     page.append(h('div', { class: 'nodata big' }, h('b', {}, `자료 없음 — 농심의 ${what}는 이번 전달본에 제공되지 않았습니다.`), h('p', {}, '01 지침: 신규 기업 선택 시 해당 기업의 데이터만 표시하고, 제공되지 않은 항목은 ‘자료 없음’으로 표시합니다. 삼양식품 자료를 농심 화면에 섞지 않습니다.'), h('button', { class: 'btn-ghost', onclick: () => { S.company = 'SY'; render(); } }, '삼양식품 자료 보기')));
     ws.append(page); return;
