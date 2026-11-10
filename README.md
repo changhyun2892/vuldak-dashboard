@@ -101,3 +101,15 @@ tests/ui_check.cjs      화면 동작 점검 (Playwright)
 4. 초록색 체크로 끝나면 커밋이 생기고 Render가 다시 배포합니다. 이후는 평일마다 자동.
 
 로컬 실행 (Windows): `set DART_API_KEY=키` → `py scripts\update_dart.py`
+
+## 메인 스크린 (2026-11-10 추가)
+
+사이트를 열면 가장 먼저 뜨는 **발표용 관제 화면**입니다. 왼쪽 메뉴에서 「종합 현황」 바로 위에 있습니다.
+
+- 파일: `screen.html` + `assets/screen.js` · `assets/screen.css` (사이트 안에서는 iframe으로 표시, `screen.html`만 직접 열어도 동작)
+- 데이터: 기존 `data/` CSV를 그대로 읽습니다 (숫자 하드코딩 없음). 종합 현황과 같은 값이 나오는지 `tests/ui_check.cjs`가 확인합니다.
+- 가운데 3D 지구본: 한국(삼양 면스낵 수출, `segments.csv`) → 해외 판매법인 5곳(`foreign_entities.csv`).
+  두 값은 서로 겹치는 부분이 있어 더하거나 나누지 않으며, 법인 쪽은 "수출"이 아니라 "판매법인 매출"로 표기합니다.
+- 라이브러리·지도·폰트는 모두 저장소에 포함(인터넷 없이 시연 가능). 라이선스: `assets/vendor/THIRD_PARTY_LICENSES.md`
+- 발표 단축키: **F** 전체 화면 · **Space** 재생/일시정지 · **1·2·3** 연도 장면 · **← →** 이전/다음 연도 · **S** 삼양/농심 · **R** 처음부터 · **?** 안내
+- 지구본이 뜨지 않으면 패널 가운데에 원인 문구가 표시되고 막대 차트로 대체됩니다(WebGL 미지원 등).
