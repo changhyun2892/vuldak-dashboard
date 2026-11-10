@@ -77,27 +77,27 @@ tests/ui_check.cjs      화면 동작 점검 (Playwright)
 - **자유형 AI 답변**: 연동하지 않았습니다. 오른쪽 '데이터 질의'는 규칙 기반 CSV 계산입니다.
 
 
-## 주가 × 불닭 · 자동 업데이트 (2026-11-10 추가)
+## DART 자동 업데이트 (2026-11-10 추가)
 
-새 메뉴 **주가 × 불닭**: 삼양식품(003230) 일별 주가에 불닭 사건(사건 연표)과 DART 정기보고서 접수일을 겹쳐 보고, 사건·공시 전후 주가 반응(KOSPI 대비 초과수익률)을 계산합니다. 시점이 겹치는 것을 보여줄 뿐 **원인으로 확정하지 않습니다**.
+새 메뉴 **DART 자동 업데이트**: 평일 16:40(KST)마다 GitHub Actions가 DART에 삼양식품 사업·반기·분기보고서가 새로 올라왔는지 확인하고, 있으면 핵심 계정(매출·원가·판관비·영업이익·순이익·자산·부채·자본·영업현금흐름)을 받아 저장합니다. 바뀐 CSV를 커밋하면 Render가 자동으로 다시 배포합니다.
 
 | 파일 | 역할 |
 |---|---|
-| `scripts/update_stock.py` | Yahoo Finance 일봉(003230.KS, KOSPI ^KS11) → `data/stock_daily.csv` |
-| `scripts/update_dart.py` | DART 정기보고서 감지 → `data/dart_reports.csv`, `dart_auto_financials.csv`, `dart_auto_quarterly.csv` |
-| `.github/workflows/update-data.yml` | 평일 16:40(KST) 두 스크립트 실행 → 바뀐 CSV 커밋 → Render 자동 재배포 |
+| `scripts/update_dart.py` | 새 정기보고서 감지 → `data/dart_reports.csv`, `dart_auto_financials.csv`, `dart_auto_quarterly.csv` |
+| `.github/workflows/update-data.yml` | 평일 실행 → 바뀐 CSV 커밋 → Render 재배포 |
 | `data/update_log.json` | 마지막 실행 결과 (화면 ‘자동 업데이트 상태’ 카드) |
+| `scripts/update_stock.py` | 주가 수집 (준비만 해둠 · 워크플로에서 꺼져 있음) |
 
-- DART는 주가를 제공하지 않아 주가는 Yahoo Finance에서 받습니다. 실시간 시세가 아니라 **장 마감 후 일별 종가**입니다.
 - 기존에 원문 대조한 `financials.csv`·`quarterly_financials.csv`는 자동으로 바뀌지 않습니다. 자동 수집값은 별도 파일에 ‘자동 수집 · 원문 대조 전’으로 저장되고, 겹치는 기간은 화면에서 검증값과 원 단위로 대조합니다.
-- 새 보고서는 접수 후 DART 재무 API에 반영될 때까지 최대 14일 동안 매일 다시 시도합니다. 정정보고서는 같은 기간을 최신 값으로 교체합니다.
+- 분기 단일 실적: Q1·Q2·Q3 = 각 보고서의 3개월 값, Q4 = 사업보고서 연간 − 3분기 누적.
+- 새 보고서는 DART 재무 API에 반영될 때까지 최대 14일 동안 매일 다시 시도합니다. 정정보고서는 같은 기간을 최신 값으로 교체합니다.
 
 ### 자동 업데이트 설정 (한 번만)
 
 1. GitHub 저장소 → **Settings → Secrets and variables → Actions → New repository secret**
-   이름 `DART_API_KEY`, 값에 DART 인증키를 넣고 저장 (키는 코드·사이트에 노출되지 않음)
-2. **Settings → Actions → General → Workflow permissions** → *Read and write permissions* 선택 → Save
-3. **Actions** 탭 → *데이터 자동 업데이트* → **Run workflow** (첫 실행에서 2023년 이후 주가·보고서를 모두 받아옴)
-4. 실행이 초록색으로 끝나면 커밋이 생기고 Render가 다시 배포합니다. 이후는 평일마다 자동.
+   이름 `DART_API_KEY`, 값에 DART 인증키 → Add secret (키는 코드·사이트에 노출되지 않음)
+2. **Settings → Actions → General → Workflow permissions** → *Read and write permissions* → Save
+3. **Actions** 탭 → *데이터 자동 업데이트* → **Run workflow** (첫 실행에서 2023년 이후 보고서를 모두 받아옴)
+4. 초록색 체크로 끝나면 커밋이 생기고 Render가 다시 배포합니다. 이후는 평일마다 자동.
 
-로컬 실행: `py scripts\update_stock.py` / `set DART_API_KEY=키` 후 `py scripts\update_dart.py`
+로컬 실행 (Windows): `set DART_API_KEY=키` → `py scripts\update_dart.py`
