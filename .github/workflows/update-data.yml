@@ -1,0 +1,50 @@
+# 평일마다 DART에 삼양식품 정기보고서(사업·반기·분기)가 새로 올라왔는지 확인해 data/ CSV를 갱신하고 커밋합니다.
+# 커밋이 올라가면 Render가 자동으로 다시 배포합니다.
+name: 데이터 자동 업데이트
+
+on:
+  schedule:
+    - cron: "40 7 * * 1-5"   # 평일 07:40 UTC = 16:40 KST
+  workflow_dispatch: {}       # Actions 탭에서 'Run workflow'로 바로 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 주가 수집은 나중에 켤 예정 — 아래 두 줄의 # 을 지우면 동작
+      # - name: 주가 수집 (Yahoo 003230.KS + KOSPI)
+      #   run: python scripts/update_stock.py
+
+      - name: DART 정기보고서 확인·반영
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: python scripts/update_dart.py
+
+      - name: 데이터 점검 (기존 검증값이 그대로인지)
+        run: python scripts/verify_data.py
+
+      - name: 바뀐 데이터 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "데이터 자동 업데이트 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
