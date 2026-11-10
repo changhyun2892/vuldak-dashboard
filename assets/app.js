@@ -176,6 +176,7 @@ const finAudit = (c, ys, metrics) => ys.flatMap((y) => metrics.flatMap((m) => fi
 // 2. STATE
 // =====================================================================
 const PAGES = [
+  { id: 'screen', label: '메인 스크린', desc: '발표용 관제 화면 · F 키로 전체 화면', icon: 'M3 4h18v12H3zM8 20h8M12 16v4' }, // 메인 스크린(screen.html) — 첫 화면
   { id: 'overview', label: '종합 현황', desc: '연결 실적 핵심 지표 · 기업과 연도를 선택하세요', icon: 'M3 12h4l3-8 4 16 3-8h4' },
   { id: 'compare', label: '기업 비교', desc: '삼양식품·농심 연결 재무 비교 (사업 구성·회계 분류 차이 유의)', icon: 'M4 18V8m5 10V4m6 14v-6m5 6V9M3 20h18' },
   { id: 'performance', label: '경영성과', desc: '수익성·현금흐름·재무안정성', icon: 'M4 20V10m6 10V4m6 16v-7m4 7H2' },
@@ -193,6 +194,7 @@ const PAGES = [
 ];
 // 필터 적용 범위. company: 'both' = 두 회사 동시 표시 / 'any' = 선택 기업 / 'SY' = 삼양 자료만 존재
 const FILTERS = {
+  screen: { period: false, market: null, company: 'none', scope: '발표용 화면 — 필터 미적용' },
   overview: { period: true, market: null, company: 'any', scope: '기업 → 전체 카드 · 연도 → 카드·강조 연도 · 연간/분기 → 추이 차트' },
   compare: { period: true, market: null, company: 'both', scope: '두 회사 동시 표시 · 연도 → 비교표·강조 연도 · 연간/분기 → 추이 차트' },
   performance: { period: true, market: null, company: 'any', scope: '기업 → 전체 카드 · 연도 → 카드·강조 연도 · 연간/분기 → 손익 추이' },
@@ -208,7 +210,7 @@ const FILTERS = {
   sources: { period: false, market: null, company: 'none', scope: '필터가 적용되지 않는 화면' },
   board: { period: false, market: null, company: 'SY', scope: '필터 미적용 — 카드는 삼양식품 2023~2025 고정 근거 (분류만 바뀜)' },
 };
-const S = { stRange: 'all', stEv: true, page: 'overview', company: 'SY', year: 2025, period: 'annual', entity: 'all', region: 'Worldwide', edit: false, panel: true, hl: null, auditDs: 'all', auditRes: 'all', tlOnly: false };
+const S = { stRange: 'all', stEv: true, page: 'screen', company: 'SY', year: 2025, period: 'annual', entity: 'all', region: 'Worldwide', edit: false, panel: true, hl: null, auditDs: 'all', auditRes: 'all', tlOnly: false };
 const store = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* 저장 불가 환경 */ } } };
 
 // =====================================================================
@@ -1715,7 +1717,31 @@ function enableBoardDrag(colsEl, cards, paintSums, byId) {
 // =====================================================================
 // 7. RENDER (페이지 전환·카드 편집)
 // =====================================================================
+// ---------- 메인 스크린: screen.html을 가운데 영역에 iframe으로 표시 ----------
+// · 다른 화면으로 나가면 iframe을 지워서 지구본(WebGL) 메모리를 돌려준다.
+// · 메인 스크린에 있는 동안 데이터 질의 패널은 접고, 나가면 원래 상태로 되돌린다.
+let screenFrame = null, panelBeforeScreen = null;
+function renderScreen() {
+  hideTip();
+  root.classList.add('screen-mode');
+  document.querySelectorAll('.nav-btn').forEach((b) => b.setAttribute('aria-current', b.dataset.page === 'screen' ? 'page' : 'false'));
+  if (panelBeforeScreen === null) { panelBeforeScreen = S.panel; S.panel = false; paintPanel(); }
+  const ws = $('#ws');
+  if (!screenFrame || !ws.contains(screenFrame)) {
+    ws.replaceChildren();
+    screenFrame = h('iframe', { class: 'screen-frame', src: 'screen.html', title: '메인 스크린 — 삼양식품 경영 모니터링', allow: 'fullscreen', allowfullscreen: true });
+    ws.append(screenFrame);
+  }
+  setTimeout(() => { try { screenFrame && screenFrame.focus(); } catch (e) { /* noop */ } }, 60);
+}
+function leaveScreen() {
+  root.classList.remove('screen-mode');
+  if (screenFrame) { try { screenFrame.src = 'about:blank'; } catch (e) { /* noop */ } screenFrame.remove(); screenFrame = null; }
+  if (panelBeforeScreen !== null) { S.panel = panelBeforeScreen; panelBeforeScreen = null; paintPanel(); }
+}
 function render() {
+  if (S.page === 'screen') { renderScreen(); return; }
+  leaveScreen();
   paintFilters();
   const ws = $('#ws'); ws.replaceChildren(); hideTip();
   const page = h('div', { class: 'page' + (S.edit ? ' editing' : '') });

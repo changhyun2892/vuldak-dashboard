@@ -393,3 +393,14 @@ ul.ms small { color: var(--muted); font-size: 10.5px; }
 @media (max-width: 860px) { #editBtn { display: none !important; } }
 .select { max-width: 100%; text-overflow: ellipsis; }
 .raw-tools { min-width: 0; } .raw-tools .select { flex: 1 1 200px; min-width: 0; }
+
+/* =====================================================================
+   메인 스크린 (screen.html을 가운데 영역에 꽉 채워 표시) — 이 블록만 추가, 기존 규칙은 그대로
+   ===================================================================== */
+.app.screen-mode .topbar, .app.screen-mode .scope { display: none; }
+.app.screen-mode .workspace { padding: 0; overflow: hidden; display: flex; background: #08131F; }
+.screen-frame { flex: 1; width: 100%; height: 100%; border: 0; display: block; background: #08131F; }
+@media (max-width: 860px) {
+  .app.screen-mode .workspace { display: block; }
+  .screen-frame { height: auto; aspect-ratio: 16 / 9; }
+}
