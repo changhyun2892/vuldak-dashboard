@@ -1,7 +1,7 @@
 {
   "dart": {
     "status": "성공",
-    "checked_at": "2026-11-17 17:41 KST",
+    "checked_at": "2026-11-18 17:42 KST",
     "corp_code": "00126955",
     "reports_total": 17,
     "new_reports": [],
@@ -14,10 +14,10 @@
   },
   "stock": {
     "status": "성공",
-    "checked_at": "2026-11-17 17:41 KST",
-    "rows": 944,
-    "last_date": "2026-11-17",
-    "last_close": 1271000,
+    "checked_at": "2026-11-18 17:42 KST",
+    "rows": 945,
+    "last_date": "2026-11-18",
+    "last_close": 1273000,
     "source": "Yahoo Finance 003230.KS 일봉"
   }
 }
